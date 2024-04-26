@@ -8,6 +8,7 @@ The DrawL dataset comprises a collection of contrastive prompts for image genera
 | Mainstream American English                             | African American English                                     |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
 | A closeup of a person. They put sunglasses on their cat | A closeup of a person. They done put sunglasses on their cat |
+
 The dataset is divided into a set of  minimal, syntax-only changes to the MAE prompts that express grammatical constructions found AAE. Each prompt is labeled with the grammar rule used to construct the contrastive AAE prompt.
 
  This data may facilitate experiments in which one would like to investigate behavior changes of language models with respect to the dialect of the user. 
