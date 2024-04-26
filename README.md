@@ -15,11 +15,11 @@ The dataset is divided into a set of  minimal, syntax-only changes to the MAE pr
 
 Repository Contents
 
-    [Dataset File(s)]: This directory contains the actual dataset files in [format(s)] format. Feel free to explore and use them for your research.
+    [prompts_by_gendered_subject]: This directory includes the full set of data, separated by the gender of the generated subject for the purposes of investigating intersectional effects of dialect and gender.
 
-    [Z]: The datasheet file provides detailed information about the dataset, including its composition, source, preprocessing steps, and potential applications. Refer to this file for a deeper understanding of the dataset's characteristics and guidelines for its usage.
+    [prompts_by_syntactic_construction]: This directory includes the multiple csv files for each grammar rule with the unedited, raw prompt, the baseline MAE prompt, and AAE counterfactual prompt.
 
-    [Other Files or Directories, if applicable]: Additional files or directories may be included here, such as code scripts, analysis results, or supplementary materials related to the dataset.
+    [datasheet]: The datasheet directory provides a README with detailed information about the dataset, including its composition, source, preprocessing steps, and potential applications. Refer to this file for a deeper understanding of the dataset's characteristics and guidelines for its usage.
 
 Usage Guidelines
 
@@ -27,7 +27,7 @@ To utilize this dataset effectively, follow these guidelines:
 
     Download: Clone or download the repository to access the dataset files and related materials.
 
-    Explore: Review the datasheet ([Z]) to understand the dataset's structure, attributes, and any preprocessing steps applied.
+    Explore: Review the datasheet to understand the dataset's structure, attributes, and any preprocessing steps applied.
 
     Citation: If you use this dataset in your work, please cite it using the provided BibTeX citation below.
 
