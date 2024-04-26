@@ -1,5 +1,6 @@
+Below is the datasheet for the dataset included in this work. For more information on any aspect, feel free to reach out to: "jnwillia (at) cs (dot) cmu (dot) edu"
 
-Questions from the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper, v7. Markdown copied from: [[https://github.com/fau-masters-collected-works-cgarbin/datasheet-for-dataset-template.git]]
+Questions from the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper, v7. Markdown copied from: [https://github.com/fau-masters-collected-works-cgarbin/datasheet-for-dataset-template.git]
 
 Jump to section:
 
@@ -121,7 +122,7 @@ Jump to section:
 
 ### Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?
 
-? We were provided the already anonymized data.
+> We were provided the already anonymized data.
 
 ### Were the individuals in question notified about the data collection?
 
@@ -169,84 +170,70 @@ Jump to section:
 
 > This datasheet is a part of the repository that includes the data and the companion paper.
 
-+++++++++++++++++++++++
-
 ### What (other) tasks could the dataset be used for?
+
+> N/A
 
 ### Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?
 
-_For example, is there anything that a future user might need to know to avoid uses that
-could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of
-service issues) or other undesirable harms (e.g., financial harms, legal risks) If so, please
-provide a description. Is there anything a future user could do to mitigate these undesirable
-harms?_
+> We do not feel that this dataset will impact future uses. It is only a snapshot of the impact on several grammatical constructions in AAE on MAE. 
 
 ### Are there tasks for which the dataset should not be used?
 
-_If so, please provide a description._
-
-### Any other comments?
+> This dataset should not be used as an intervention to encourage changes in image generation or language model output distributions based on dialect. Nor is it intended to be used for training data for language modeling tasks.
 
 ## Distribution
 
 ### Will the dataset be distributed to third parties outside of the entity (e.g., company, institution, organization) on behalf of which the dataset was created? 
 
-_If so, please provide a description._
+> The dataset here is being made publicly available
 
 ### How will the dataset will be distributed (e.g., tarball on website, API, GitHub)?
 
-_Does the dataset have a digital object identifier (DOI)?_
+> This repository is the only intended distribution method for the data
 
 ### When will the dataset be distributed?
 
+> N/A
+
 ### Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?
 
-_If so, please describe this license and/or ToU, and provide a link or other access point to,
-or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated
-with these restrictions._
+> This work is licensed under the MIT License
 
 ### Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
 
-_If so, please describe these restrictions, and provide a link or other access point to, or
-otherwise reproduce, any relevant licensing terms, as well as any fees associated with these
-restrictions._
+> No other parties have given restrictions on the data or its release.
 
 ### Do any export controls or other regulatory restrictions apply to the dataset or to individual instances?
 
-_If so, please describe these restrictions, and provide a link or other access point to, or otherwise
-reproduce, any supporting documentation._
-
-### Any other comments?
+> N/A
 
 ## Maintenance
 
-_These questions are intended to encourage dataset creators to plan for dataset maintenance
-and communicate this plan with dataset consumers._
-
 ### Who is supporting/hosting/maintaining the dataset?
+
+> The lead author of this work is available for questions or additional information for this dataset.
 
 ### How can the owner/curator/manager of the dataset be contacted (e.g., email address)?
 
+> jnwillia (at) cs (dot) cmu (dot) edu
+
 ### Is there an erratum?
 
-_If so, please provide a link or other access point._
+> N/A
 
 ### Will the dataset be updated (e.g., to correct labeling errors, add new instances, delete instances)?
 
-_If so, please describe how often, by whom, and how updates will be communicated to users (e.g., mailing list, GitHub)?_
+> We do not have any intention of updating the dataset as of now
 
 ### If the dataset relates to people, are there applicable limits on the retention of the data associated with the instances (e.g., were individuals in question told that their data would be retained for a fixed period of time and then deleted)?
 
-_If so, please describe these limits and explain how they will be enforced._
+> N/A
 
 ### Will older versions of the dataset continue to be supported/hosted/maintained?
 
-_If so, please describe how. If not, please describe how its obsolescence will be communicated to users._
+> This is the only available version of this dataset.
 
 ### If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?
 
-_If so, please provide a description. Will these contributions be validated/verified? If so,
-please describe how. If not, why not? Is there a process for communicating/distributing these
-contributions to other users? If so, please provide a description._
-
-### Any other comments?
+> We are not considering building on or extending this dataset. If you choose to, please keep the information in this datasheet in mind. See the included license.
