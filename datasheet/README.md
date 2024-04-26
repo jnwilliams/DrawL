@@ -28,6 +28,7 @@ This work began as and was funded by an internship with Google Research. The wor
 ### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 
 The data consists only of a set of csv (comma separated value) files of contrastive prompts in MAE and AAE. 
+
 ### How many instances are there in total (of each type, if appropriate)?
 
 The dataset consists of 607 distinct contrastive prompts. Each prompt uses one of 7 different grammatical constructions present in AAE. 
@@ -35,9 +36,11 @@ The dataset consists of 607 distinct contrastive prompts. Each prompt uses one o
 We create gendered copies of each of these 607 prompts, in order to facilitate intersectional analyses based on the gender (Male, Female, Unspecified) bringing the total to 1821 total prompts.
 
 We also include a split of the data for each of the individual grammatical constructions using gender neutral descriptions of the subjects.
+
 ### Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?
 
 The dataset is a small sample meant to facilitate analyses into the effects of dialect on image generation models, but can be used for general language models.
+
 ### What data does each instance consist of? 
 
 Each row consists of: 1) An original prompt from a baseline dataset of prompts used in image generation models. 2) An edited prompt in MAE, edited by the dataset's author, to match the necessary format for the contrastive prompting. 3) A prompt, edited by the author, in AAE that uses the minimal change to the MAE prompt to express a specific grammatical construction common to AAE. 4) A label of the grammatical construction expressed, e.g., Null Copula. 5) A label of whether this prompt is MAE (Baseline) or AAE (Counterfactual).
