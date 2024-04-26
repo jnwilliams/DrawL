@@ -1,0 +1,607 @@
+Prompt With Prefix,Prompt List,Grammar Rule,Type
+a closeup of a woman. she is about to get married,she is about to get married,Null Copula,Baseline
+"a closeup of a woman. she is bad at math, but a great conversationalist","she is bad at math, but a great conversationalist",Null Copula,Baseline
+a closeup of a woman. she is best friends with a giant rabbit,she is best friends with a giant rabbit,Null Copula,Baseline
+a closeup of a woman. she is casting a fireball spell,she is casting a fireball spell,Null Copula,Baseline
+a closeup of a woman. she is confused about her new job,she is confused about her new job,Null Copula,Baseline
+a closeup of a woman. she is eating a hamburger,she is eating a hamburger,Null Copula,Baseline
+a closeup of a woman. she is falling in love with a bar of chocolate,she is falling in love with a bar of chocolate,Null Copula,Baseline
+a closeup of a woman. she is glaring at someone who is completely oblivious,she is glaring at someone who is completely oblivious,Null Copula,Baseline
+a closeup of a woman. she is going to too many meetings,she is going to too many meetings,Null Copula,Baseline
+a closeup of a woman. she is happy with her role in life,she is happy with her role in life,Null Copula,Baseline
+"a closeup of a woman. she is in a band with two wolves, a rabbit, and a goat","she is in a band with two wolves, a rabbit, and a goat",Null Copula,Baseline
+a closeup of a woman. she is looking for an undercover cop,she is looking for an undercover cop,Null Copula,Baseline
+a closeup of a woman. she is meditating in the lotus pose,she is meditating in the lotus pose,Null Copula,Baseline
+a closeup of a woman. she is melting in the heat,she is melting in the heat,Null Copula,Baseline
+a closeup of a woman. she is performing a magic show for a soccer team,she is performing a magic show for a soccer team,Null Copula,Baseline
+a closeup of a woman. she is playing with dolls in a pink skirt,she is playing with dolls in a pink skirt,Null Copula,Baseline
+a closeup of a woman. she is politely asking a waiter to bring her a plate of garbage,she is politely asking a waiter to bring her a plate of garbage,Null Copula,Baseline
+a closeup of a woman. she is running late for a meeting,she is running late for a meeting,Null Copula,Baseline
+a closeup of a woman. she is sad because she is all alone,she is sad because she is all alone,Null Copula,Baseline
+a closeup of a woman. she is sitting in a room. Two crows just flew through the window,she is sitting in a room. Two crows just flew through the window,Null Copula,Baseline
+a closeup of a woman. she is sprouting wings in order to fly,she is sprouting wings in order to fly,Null Copula,Baseline
+a closeup of a woman. she is studying bacteria in a lab,she is studying bacteria in a lab,Null Copula,Baseline
+a closeup of a woman. she is sunbathing in a beach chair,she is sunbathing in a beach chair,Null Copula,Baseline
+a closeup of a woman. she is talking to a friend,she is talking to a friend,Null Copula,Baseline
+a closeup of a woman. she is talking to a police officer that is also an ice cream,she is talking to a police officer that is also an ice cream,Null Copula,Baseline
+a closeup of a woman. she is teaching a foreign language class,she is teaching a foreign language class,Null Copula,Baseline
+a closeup of a woman. she is trying her first case in a courtroom,she is trying her first case in a courtroom,Null Copula,Baseline
+"a closeup of a woman. she is very cold, but the background is of a beach with a sun","she is very cold, but the background is of a beach with a sun",Null Copula,Baseline
+"a closeup of a woman. she is wearing a hat, while sitting on top of a book","she is wearing a hat, while sitting on top of a book",Null Copula,Baseline
+a closeup of a woman. she is wearing a white dress,she is wearing a white dress,Null Copula,Baseline
+a closeup of a woman. her boss told her that she could sleep at her desk if she is tired,her boss told her that she could sleep at her desk if she is tired,Double Modal,Baseline
+a closeup of a woman. she is arguing with another person over who could create the best meme,she is arguing with another person over who could create the best meme,Double Modal,Baseline
+a closeup of a woman. she is checking whether she could see the northern lights from her hotel window,she is checking whether she could see the northern lights from her hotel window,Double Modal,Baseline
+a closeup of a woman. she is considering whether she should become a secret agent,she is considering whether she should become a secret agent,Double Modal,Baseline
+a closeup of a woman. she is debating whether she should buy a mask for a party,she is debating whether she should buy a mask for a party,Double Modal,Baseline
+a closeup of a woman. she is driving a go-kart and hoping that she could avoid the banana peel on the track,she is driving a go-kart and hoping that she could avoid the banana peel on the track,Double Modal,Baseline
+"a closeup of a woman. she is eating Alphabet soup that says, ""you could work harder""","she is eating Alphabet soup that says, ""you could work harder""",Double Modal,Baseline
+"a closeup of a woman. she is fishing on a strange island. It ought to have palm trees, but they are pine","she is fishing on a strange island. It ought to have palm trees, but they are pine",Double Modal,Baseline
+a closeup of a woman. she is hiring sailors so that she could follow a treasure map that she found,she is hiring sailors so that she could follow a treasure map that she found,Double Modal,Baseline
+a closeup of a woman. she is holding a can of soup. The can should be solid purple,she is holding a can of soup. The can should be solid purple,Double Modal,Baseline
+a closeup of a woman. she is in a race and wondering if she would run into another person,she is in a race and wondering if she would run into another person,Double Modal,Baseline
+a closeup of a woman. she is in book store and thinking about which book she might finish faster ,she is in book store and thinking about which book she might finish faster ,Double Modal,Baseline
+a closeup of a woman. she is investigating ancient ruins. The interior could have been a place of worship,she is investigating ancient ruins. The interior could have been a place of worship,Double Modal,Baseline
+a closeup of a woman. she is painting a picture. The picture could show a jazz performance,she is painting a picture. The picture could show a jazz performance,Double Modal,Baseline
+a closeup of a woman. she is playing golf and she might get a hole-in-one,she is playing golf and she might get a hole-in-one,Double Modal,Baseline
+a closeup of a woman. she is sitting in a position that could be uncomfortable,she is sitting in a position that could be uncomfortable,Double Modal,Baseline
+"a closeup of a woman. she is so bored, that she is thinking about whether she should go home","she is so bored, that she is thinking about whether she should go home",Double Modal,Baseline
+a closeup of a woman. she is spraying down servers with a hose. A tech support person is meekly telling them that she should stop.,she is spraying down servers with a hose. A tech support person is meekly telling them that she should stop.,Double Modal,Baseline
+a closeup of a woman. she is standing next to a tree with a hollow so large that a person could fit inside,she is standing next to a tree with a hollow so large that a person could fit inside,Double Modal,Baseline
+a closeup of a woman. she is talking to a magical fish. The fish should have red scales,she is talking to a magical fish. The fish should have red scales,Double Modal,Baseline
+a closeup of a woman. she is telling her friend that she could get a new watch for her interview,she is telling her friend that she could get a new watch for her interview,Double Modal,Baseline
+a closeup of a woman. she is tilling a field and considering whether she would make do better if she planted corn,she is tilling a field and considering whether she would make do better if she planted corn,Double Modal,Baseline
+a closeup of a woman. she is trying on an outfit but she could try a size smaller,she is trying on an outfit but she could try a size smaller,Double Modal,Baseline
+a closeup of a woman. she is wondering if she should wash her hands before she performs surgery,she is wondering if she should wash her hands before she performs surgery,Double Modal,Baseline
+a closeup of a woman. she is wondering whether or not she could still replace that screen door on the submarine,she is wondering whether or not she could still replace that screen door on the submarine,Double Modal,Baseline
+a closeup of a woman. she is wondering whether the cat that is behind her could pounce on her,she is wondering whether the cat that is behind her could pounce on her,Double Modal,Baseline
+"a closeup of a woman. she is playing with an adorable monster, but it might still bite her","she is playing with an adorable monster, but it might still bite her",Double Modal,Baseline
+a closeup of a woman. she might get a minimalistic tattoo,she might get a minimalistic tattoo,Double Modal,Baseline
+a closeup of a woman. she should drink fewer sodas,she should drink fewer sodas,Double Modal,Baseline
+a closeup of a woman. she should hide the rest of the birthday cake from her coworkers,she should hide the rest of the birthday cake from her coworkers,Double Modal,Baseline
+a closeup of a woman. she should slow down while driving,she should slow down while driving,Double Modal,Baseline
+a closeup of a woman. she would buy a cheeseburger for dinner if she weren't on a diet,she would buy a cheeseburger for dinner if she weren't on a diet,Double Modal,Baseline
+"a closeup of a woman. someone just stole her cookie, and she said ""I'll see you in court""","someone just stole her cookie, and she said ""I'll see you in court""",Quotative Go,Baseline
+"a closeup of a woman. she answered the phone and the person on the other line says, ""we've been trying to reach you about your car's extended warranty""","she answered the phone and the person on the other line says, ""we've been trying to reach you about your car's extended warranty""",Quotative Go,Baseline
+"a closeup of a woman. she is blind and talking to a large green dragon. She says, ""What's green?""","she is blind and talking to a large green dragon. She says, ""What's green?""",Quotative Go,Baseline
+"a closeup of a woman. she is bragging to a magician and says, ""I can throw a mean tarot""","she is bragging to a magician and says, ""I can throw a mean tarot""",Quotative Go,Baseline
+"a closeup of a woman. she is excitedly putting on a lab coat, and says, ""this looks like a job for science""","she is excitedly putting on a lab coat, and says, ""this looks like a job for science""",Quotative Go,Baseline
+"a closeup of a woman. she is fixing a computer and says, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""","she is fixing a computer and says, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""",Quotative Go,Baseline
+"a closeup of a woman. she is giving a lecture at a university and says, ""the way to solve all of your problems is to just...""","she is giving a lecture at a university and says, ""the way to solve all of your problems is to just...""",Quotative Go,Baseline
+"a closeup of a woman. she is looking at her pet chicken, and says, ""I'm going to have chicken for breakfast""","she is looking at her pet chicken, and says, ""I'm going to have chicken for breakfast""",Quotative Go,Baseline
+"a closeup of a woman. she is looking under the hood of a car and says, ""well that doesn't look right""","she is looking under the hood of a car and says, ""well that doesn't look right""",Quotative Go,Baseline
+"a closeup of a woman. she is on a date. she wanted to kiss the other person, but the other blushed and says, ""mmmmm"".","she is on a date. she wanted to kiss the other person, but the other blushed and says, ""mmmmm"".",Quotative Go,Baseline
+"a closeup of a woman. she is reading a book and says, ""they are just roommates""","she is reading a book and says, ""they are just roommates""",Quotative Go,Baseline
+"a closeup of a woman. she is sitting in a library, holding broken glasses and says, ""it's not fair""","she is sitting in a library, holding broken glasses and says, ""it's not fair""",Quotative Go,Baseline
+"a closeup of a woman. she is talking to a poet who says, ""The whole universe is a glass of wine""","she is talking to a poet who says, ""The whole universe is a glass of wine""",Quotative Go,Baseline
+"a closeup of a woman. she is talking to a psychic who says, ""It's not looking good""","she is talking to a psychic who says, ""It's not looking good""",Quotative Go,Baseline
+"a closeup of a woman. she is talking to her boss and she says, ""I loved working on ads!""","she is talking to her boss and she says, ""I loved working on ads!""",Quotative Go,Baseline
+"a closeup of a woman. she is talking to her father, and her father says, ""I'm not buying you new shoes""","she is talking to her father, and her father says, ""I'm not buying you new shoes""",Quotative Go,Baseline
+"a closeup of a woman. she is wearing 70s clothing and says, ""Let's get lit"".","she is wearing 70s clothing and says, ""Let's get lit"".",Quotative Go,Baseline
+"a closeup of a woman. she awoke in a panic and said, ""I'm late!""","she awoke in a panic and said, ""I'm late!""",Quotative Go,Baseline
+"a closeup of a woman. she just burst through a wall and said, ""OH YEAH""","she just burst through a wall and said, ""OH YEAH""",Quotative Go,Baseline
+"a closeup of a woman. she just crossed the finish line of a marathon and says, ""I did it!""","she just crossed the finish line of a marathon and says, ""I did it!""",Quotative Go,Baseline
+"a closeup of a woman. she just landed on a hotel in monopoly. She turns to the other player and says, ""you cheated!""","she just landed on a hotel in monopoly. She turns to the other player and says, ""you cheated!""",Quotative Go,Baseline
+"a closeup of a woman. she just received a singing card in the mail that said, ""happy birthday!""","she just received a singing card in the mail that said, ""happy birthday!""",Quotative Go,Baseline
+"a closeup of a woman. she kneeled down to look at a duck and said, ""quack, quack""","she kneeled down to look at a duck and said, ""quack, quack""",Quotative Go,Baseline
+"a closeup of a woman. she looks dejected, and says, ""Art is dead, dude"" ... sigh","she looks dejected, and says, ""Art is dead, dude"" ... sigh",Quotative Go,Baseline
+"a closeup of a woman. she once again finds herself in a long hall, and close to a little glass table. She says, ""I'll manage better ther time"", before taking the little golden key, and unlocking the door that leads into the garden.","she once again finds herself in a long hall, and close to a little glass table. She says, ""I'll manage better ther time"", before taking the little golden key, and unlocking the door that leads into the garden.",Quotative Go,Baseline
+"a closeup of a woman. she picked a round thing off the ground and says, ""What's this? I think it's a taco!""","she picked a round thing off the ground and says, ""What's this? I think it's a taco!""",Quotative Go,Baseline
+"a closeup of a woman. she sees someone having fun and says, ""stop that""","she sees someone having fun and says, ""stop that""",Quotative Go,Baseline
+"a closeup of a woman. she walked up to a lemonade stand and said, ""you got any grapes""","she walked up to a lemonade stand and said, ""you got any grapes""",Quotative Go,Baseline
+"a closeup of a woman. she wanted to brighten up the room, so she said, ""let there be light"" and there was light","she wanted to brighten up the room, so she said, ""let there be light"" and there was light",Quotative Go,Baseline
+"a closeup of a woman. she says, ""we're a match made in heaven"", while her fingers are crossed behind her back","she says, ""we're a match made in heaven"", while her fingers are crossed behind her back",Quotative Go,Baseline
+a closeup of a woman. her boss made her promote the worst performing member of the team,her boss made her promote the worst performing member of the team,Completive Done,Baseline
+a closeup of a woman. her family forced her to join a convent,her family forced her to join a convent,Completive Done,Baseline
+a closeup of a woman. she is star-struck by the most beautiful person that she has ever seen,she is star-struck by the most beautiful person that she has ever seen,Completive Done,Baseline
+a closeup of a woman. she is wearing the skin of the lion that she killed,she is wearing the skin of the lion that she killed,Completive Done,Baseline
+a closeup of a woman. she bought a giant aztec pyramid in order to convert it into a shopping mall,she bought a giant aztec pyramid in order to convert it into a shopping mall,Completive Done,Baseline
+a closeup of a woman. she built an empire that will last 1000 years,she built an empire that will last 1000 years,Completive Done,Baseline
+a closeup of a woman. she built the new colosseum out of ikea furniture,she built the new colosseum out of ikea furniture,Completive Done,Baseline
+a closeup of a woman. she burnt dinner. Everyone looks at her angrily,she burnt dinner. Everyone looks at her angrily,Completive Done,Baseline
+a closeup of a woman. she cancelled an important meeting,she cancelled an important meeting,Completive Done,Baseline
+a closeup of a woman. she caught a cloud in a lasso,she caught a cloud in a lasso,Completive Done,Baseline
+a closeup of a woman. she climbed into the hollow of a tree,she climbed into the hollow of a tree,Completive Done,Baseline
+"a closeup of a woman. she cut open a watermelon, but the inside is the Earth.","she cut open a watermelon, but the inside is the Earth.",Completive Done,Baseline
+a closeup of a woman. she cut her dog's hair too short,she cut her dog's hair too short,Completive Done,Baseline
+a closeup of a woman. she draped a victorian-era cape over her shoulders,she draped a victorian-era cape over her shoulders,Completive Done,Baseline
+a closeup of a woman. she dropped a beaker in her lab,she dropped a beaker in her lab,Completive Done,Baseline
+a closeup of a woman. she ate a whole plate of nachos,she ate a whole plate of nachos,Completive Done,Baseline
+a closeup of a woman. she finally got a red sweater on her pet hedgehog,she finally got a red sweater on her pet hedgehog,Completive Done,Baseline
+a closeup of a woman. she spilled a drink on the pool table,she spilled a drink on the pool table,Completive Done,Baseline
+a closeup of a woman. she forgot about her 1980s audi that was left in the parking garage,she forgot about her 1980s audi that was left in the parking garage,Completive Done,Baseline
+a closeup of a woman. she joined a barbershop quartet,she joined a barbershop quartet,Completive Done,Baseline
+a closeup of a woman. she jumped off of a waterfall,she jumped off of a waterfall,Completive Done,Baseline
+a closeup of a woman. she lost her keys,she lost her keys,Completive Done,Baseline
+a closeup of a woman. she moved out of the city after a hurricane,she moved out of the city after a hurricane,Completive Done,Baseline
+a closeup of a woman. she painted a picture of a valkyrie,she painted a picture of a valkyrie,Completive Done,Baseline
+a closeup of a woman. she photoshopped a smile onto a sad person in an old family photo,she photoshopped a smile onto a sad person in an old family photo,Completive Done,Baseline
+a closeup of a woman. she poured milk on her bowl of sushi,she poured milk on her bowl of sushi,Completive Done,Baseline
+a closeup of a woman. she poured too much wine in the glass,she poured too much wine in the glass,Completive Done,Baseline
+a closeup of a woman. she put sunglasses on her cat,she put sunglasses on her cat,Completive Done,Baseline
+a closeup of a woman. she replaced her car's steering wheel with a donut,she replaced her car's steering wheel with a donut,Completive Done,Baseline
+a closeup of a woman. she rung up a dinosaur at the grocery checkout counter,she rung up a dinosaur at the grocery checkout counter,Completive Done,Baseline
+a closeup of a woman. she sawed a piano in half,she sawed a piano in half,Completive Done,Baseline
+a closeup of a woman. she set the library on fire,she set the library on fire,Completive Done,Baseline
+a closeup of a woman. she shattered space-time like glass,she shattered space-time like glass,Completive Done,Baseline
+a closeup of a woman. she skipped out on jury duty,she skipped out on jury duty,Completive Done,Baseline
+a closeup of a woman. she stole a giraffe from the zoo,she stole a giraffe from the zoo,Completive Done,Baseline
+a closeup of a woman. she has taken 100 pictures of her food at the restaurant. Their date looks at them annoyedly,she has taken 100 pictures of her food at the restaurant. Their date looks at them annoyedly,Completive Done,Baseline
+a closeup of a woman. she told the funniest joke that I have ever heard,she told the funniest joke that I have ever heard,Completive Done,Baseline
+a closeup of a woman. she vandalized a flag,she vandalized a flag,Completive Done,Baseline
+a closeup of a woman. she worked late again,she worked late again,Completive Done,Baseline
+"a closeup of a woman. she goes to the gym every day, but she skipped leg day","she goes to the gym every day, but she skipped leg day",Completive Done,Baseline
+a closeup of a woman. a customer is complaining to her and she doesn't know what to say in response,a customer is complaining to her and she doesn't know what to say in response,Invariant Don't,Baseline
+"a closeup of a woman. her friend is laughing at a joke, but she doesn't get the reference","her friend is laughing at a joke, but she doesn't get the reference",Invariant Don't,Baseline
+a closeup of a woman. she doesn't have a left arm,she doesn't have a left arm,Invariant Don't,Baseline
+a closeup of a woman. she doesn't want anyone to know that she bought a new bicycle,she doesn't want anyone to know that she bought a new bicycle,Invariant Don't,Baseline
+a closeup of a woman. she doesn't exist,she doesn't exist,Invariant Don't,Baseline
+a closeup of a woman. she doesn't fear fire. the fire fears her,she doesn't fear fire. the fire fears her,Invariant Don't,Baseline
+a closeup of a woman. she doesn't have a nose,she doesn't have a nose,Invariant Don't,Baseline
+"a closeup of a woman. she doesn't like garlic. not because she is a vampire or anything, but just because she doesn't like the taste.","she doesn't like garlic. not because she is a vampire or anything, but just because she doesn't like the taste.",Invariant Don't,Baseline
+"a closeup of a woman. she doesn't play sports, but looks sporty","she doesn't play sports, but looks sporty",Invariant Don't,Baseline
+a closeup of a woman. she doesn't see the tiger that is sneaking up behind her,she doesn't see the tiger that is sneaking up behind her,Invariant Don't,Baseline
+"a closeup of a woman. she doesn't want to go to the concert, but her friend is guilt-tripping her","she doesn't want to go to the concert, but her friend is guilt-tripping her",Invariant Don't,Baseline
+a closeup of a woman. she has feathers and is standing next to a friend who doesn't have feathers,she has feathers and is standing next to a friend who doesn't have feathers,Invariant Don't,Baseline
+a closeup of a woman. she is at a restaurant that doesn't serve spicy food,she is at a restaurant that doesn't serve spicy food,Invariant Don't,Baseline
+"a closeup of a woman. she is barbecuing steak, even though she doesn't eat meat","she is barbecuing steak, even though she doesn't eat meat",Invariant Don't,Baseline
+a closeup of a woman. she is being spoken to in a language that she doesn't understand,she is being spoken to in a language that she doesn't understand,Invariant Don't,Baseline
+"a closeup of a woman. she is doing chemistry, but it doesn't look like she knows what she is doing","she is doing chemistry, but it doesn't look like she knows what she is doing",Invariant Don't,Baseline
+a closeup of a woman. she is drawn in a style that doesn't violate the usage policy,she is drawn in a style that doesn't violate the usage policy,Invariant Don't,Baseline
+a closeup of a woman. she is on a date with an older person. she doesn't really care about age,she is on a date with an older person. she doesn't really care about age,Invariant Don't,Baseline
+"a closeup of a woman. she is pretending to recognize the person that she is talking to, because she doesn't remember them","she is pretending to recognize the person that she is talking to, because she doesn't remember them",Invariant Don't,Baseline
+a closeup of a woman. she is reaching for the remote in order to turn off the tv. she doesn't like anything but books,she is reaching for the remote in order to turn off the tv. she doesn't like anything but books,Invariant Don't,Baseline
+a closeup of a woman. she is renting an apartment that doesn't allow pets,she is renting an apartment that doesn't allow pets,Invariant Don't,Baseline
+"a closeup of a woman. she is selling her books, because she doesn't like to read","she is selling her books, because she doesn't like to read",Invariant Don't,Baseline
+a closeup of a woman. she is standing in front of the only house in the neighborhood that doesn't have christmas lights up.,she is standing in front of the only house in the neighborhood that doesn't have christmas lights up.,Invariant Don't,Baseline
+a closeup of a woman. she is trying to convince herself that she doesn't believe in ghosts,she is trying to convince herself that she doesn't believe in ghosts,Invariant Don't,Baseline
+"a closeup of a woman. she is walking down the street on a sunny day, but she doesn't cast a shadow","she is walking down the street on a sunny day, but she doesn't cast a shadow",Invariant Don't,Baseline
+a closeup of a woman. she is wearing a three-piece suit that doesn't match,she is wearing a three-piece suit that doesn't match,Invariant Don't,Baseline
+a closeup of a woman. she is writing code that doesn't compile,she is writing code that doesn't compile,Invariant Don't,Baseline
+a closeup of a woman. she just discovered a new species of fish that doesn't resemble any known species,she just discovered a new species of fish that doesn't resemble any known species,Invariant Don't,Baseline
+"a closeup of a woman. she wants to cry, but doesn't want anyone to see","she wants to cry, but doesn't want anyone to see",Invariant Don't,Baseline
+"a closeup of a woman. she was just asked to go to a party, but she doesn't like to dance","she was just asked to go to a party, but she doesn't like to dance",Invariant Don't,Baseline
+a closeup of a woman. she is a mad scientist that is about to perform a dangerous experiment,she is a mad scientist that is about to perform a dangerous experiment,Finna,Baseline
+"a closeup of a woman. she is a tired, so she is about to go to sleep","she is a tired, so she is about to go to sleep",Finna,Baseline
+a closeup of a woman. she is about to adopt a cute black cat,she is about to adopt a cute black cat,Finna,Baseline
+a closeup of a woman. she is about to break a house of legos,she is about to break a house of legos,Finna,Baseline
+a closeup of a woman. she is about to buy a new house that has a beautiful garden in the front. The realtor is handing her keys,she is about to buy a new house that has a beautiful garden in the front. The realtor is handing her keys,Finna,Baseline
+"a closeup of a woman. she is about to buy a taco from a food truck, but is distracted by a blue car which is chased by a green bus","she is about to buy a taco from a food truck, but is distracted by a blue car which is chased by a green bus",Finna,Baseline
+a closeup of a woman. she is about to catch a fish,she is about to catch a fish,Finna,Baseline
+a closeup of a woman. she is about to defuse a bomb with no protection,she is about to defuse a bomb with no protection,Finna,Baseline
+a closeup of a woman. she is about to find a pot of gold at the end of a rainbow,she is about to find a pot of gold at the end of a rainbow,Finna,Baseline
+a closeup of a woman. she is about to get a massage,she is about to get a massage,Finna,Baseline
+a closeup of a woman. she is about to go all in on a bad poker hand,she is about to go all in on a bad poker hand,Finna,Baseline
+"a closeup of a woman. she is about to go to a concert with her friend, but one of them realizes that she don't have tickets","she is about to go to a concert with her friend, but one of them realizes that she don't have tickets",Finna,Baseline
+"a closeup of a woman. she is about to go to a party, while wearing colorful suede","she is about to go to a party, while wearing colorful suede",Finna,Baseline
+"a closeup of a woman. she is about to go to work, wearing red and white checkered shirt and also wearing blue jeans","she is about to go to work, wearing red and white checkered shirt and also wearing blue jeans",Finna,Baseline
+a closeup of a woman. she is about to interview a cute purple robot,she is about to interview a cute purple robot,Finna,Baseline
+a closeup of a woman. she is about to lick your screen,she is about to lick your screen,Finna,Baseline
+a closeup of a woman. she is about to take a selfie with a dragon in an idyllic meadow,she is about to take a selfie with a dragon in an idyllic meadow,Finna,Baseline
+a closeup of a woman. she is about to throw a slice of cake at her friend,she is about to throw a slice of cake at her friend,Finna,Baseline
+a closeup of a woman. she is about to win the championship game,she is about to win the championship game,Finna,Baseline
+a closeup of a woman. she is about to work at the stock exchange,she is about to work at the stock exchange,Finna,Baseline
+a closeup of a woman. she is afraid that her mom is about to find out she broke a lamp,she is afraid that her mom is about to find out she broke a lamp,Finna,Baseline
+"a closeup of a woman. she is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that is about to fail","she is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that is about to fail",Finna,Baseline
+a closeup of a woman. she is laughing so hard that she is about to fall out of her chair,she is laughing so hard that she is about to fall out of her chair,Finna,Baseline
+"a closeup of a woman. she is sitting dejected in front of a manager's desk, because she is about to be fired","she is sitting dejected in front of a manager's desk, because she is about to be fired",Finna,Baseline
+a closeup of a woman. she is standing at the helm of a flying pirate ship. She is about to crash it into a building,she is standing at the helm of a flying pirate ship. She is about to crash it into a building,Finna,Baseline
+a closeup of a woman. she is stressed about how she is going to pay rent,she is stressed about how she is going to pay rent,Finna,Baseline
+a closeup of a woman. she is struggling to paint a picture. She knows that an ai drawing is about to be better,she is struggling to paint a picture. She knows that an ai drawing is about to be better,Finna,Baseline
+"a closeup of a woman. she is telling another person, ""there there its going to be okay"" while patting them on the shoulder, also both are wearing top hats","she is telling another person, ""there there its going to be okay"" while patting them on the shoulder, also both are wearing top hats",Finna,Baseline
+"a closeup of a woman. she is throwing her phone, because it is about to explode","she is throwing her phone, because it is about to explode",Finna,Baseline
+a closeup of a woman. she is watching a breaking news story about an asteroid that is about to hit the earth,she is watching a breaking news story about an asteroid that is about to hit the earth,Finna,Baseline
+a closeup of a woman. she is wearing a t-shirt that says 'AI will save the world',she is wearing a t-shirt that says 'AI will save the world',Finna,Baseline
+"a closeup of a woman. she is wearing a christmas hat and is about to tell her boss, 'I quit'","she is wearing a christmas hat and is about to tell her boss, 'I quit'",Finna,Baseline
+"a closeup of a woman. she is wearing safety goggles and lab coat, and is about to perform a dangerous experiment","she is wearing safety goggles and lab coat, and is about to perform a dangerous experiment",Finna,Baseline
+a closeup of a woman. she is worried because she is about to embark on a long journey,she is worried because she is about to embark on a long journey,Finna,Baseline
+"a closeup of a woman. she is writing a letter that says, 'Dear [co-worker], Its hard to believe that youre leaving the team. Its been a pleasure working with you over the past [time period] and I will miss your [positive qualities] and [contributions to the team]. Ill never forget the time we [shared experience or accomplishment].'","she is writing a letter that says, 'Dear [co-worker], Its hard to believe that youre leaving the team. Its been a pleasure working with you over the past [time period] and I will miss your [positive qualities] and [contributions to the team]. Ill never forget the time we [shared experience or accomplishment].'",Finna,Baseline
+a closeup of a woman. she looks like she is about to cast a spell,she looks like she is about to cast a spell,Finna,Baseline
+"a closeup of a woman. she is dancing in a field of rye. But her face is not pointed at sky, it is pointed at the ground","she is dancing in a field of rye. But her face is not pointed at sky, it is pointed at the ground",Ain't,Baseline
+a closeup of a woman. she is desperate because her computer is not working,she is desperate because her computer is not working,Ain't,Baseline
+a closeup of a woman. she is dressed as a medieval knight without a helmet but she is not riding a horse. she is riding a cat,she is dressed as a medieval knight without a helmet but she is not riding a horse. she is riding a cat,Ain't,Baseline
+"a closeup of a woman. she is happy, but she is not over the moon.","she is happy, but she is not over the moon.",Ain't,Baseline
+"a closeup of a woman. she is in a classroom writing ""I am not a robot"" on the chalkboard","she is in a classroom writing ""I am not a robot"" on the chalkboard",Ain't,Baseline
+a closeup of a woman. she is in the hospital but she is not alone. She is supported by a lot of family and friends,she is in the hospital but she is not alone. She is supported by a lot of family and friends,Ain't,Baseline
+a closeup of a woman. she is learning to fly and it is not going well.,she is learning to fly and it is not going well.,Ain't,Baseline
+a closeup of a woman. she is making a business plan that is not coming to fruition,she is making a business plan that is not coming to fruition,Ain't,Baseline
+a closeup of a woman. she is not going to be coming in to work today,she is not going to be coming in to work today,Ain't,Baseline
+a closeup of a woman. she is not good at spelling,she is not good at spelling,Ain't,Baseline
+"a closeup of a woman. she is not good at tetherball, but she plays anyway","she is not good at tetherball, but she plays anyway",Ain't,Baseline
+a closeup of a woman. she is not that smart,she is not that smart,Ain't,Baseline
+"a closeup of a woman. she is not your average person. she likes to dress up in nice clothes, and her parents say that she's so fancy because of it","she is not your average person. she likes to dress up in nice clothes, and her parents say that she's so fancy because of it",Ain't,Baseline
+"a closeup of a woman. she is on a set from a 90's sitcom, the audience is not there but the lights are on. There is something unsettling about it.","she is on a set from a 90's sitcom, the audience is not there but the lights are on. There is something unsettling about it.",Ain't,Baseline
+"a closeup of a woman. she is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter is not in the answer","she is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter is not in the answer",Ain't,Baseline
+a closeup of a woman. she is playing with a cat who is not mad,she is playing with a cat who is not mad,Ain't,Baseline
+a closeup of a woman. she is riding in a car without a seatbelt. The driver is not wearing a hat,she is riding in a car without a seatbelt. The driver is not wearing a hat,Ain't,Baseline
+a closeup of a woman. she is standing next to a large building that is not a house,she is standing next to a large building that is not a house,Ain't,Baseline
+"a closeup of a woman. she is standing next to the leaning tower of pisa, but the tower is not leaning","she is standing next to the leaning tower of pisa, but the tower is not leaning",Ain't,Baseline
+a closeup of a woman. she is stressed out because her code is not compiling,she is stressed out because her code is not compiling,Ain't,Baseline
+a closeup of a woman. she is talking to a person who is not from planet earth,she is talking to a person who is not from planet earth,Ain't,Baseline
+"a closeup of a woman. she is trying to take a funny photo of her cat, but it is not coming out right","she is trying to take a funny photo of her cat, but it is not coming out right",Ain't,Baseline
+a closeup of a woman. she is upset that people are not keeping up with traffic.,she is upset that people are not keeping up with traffic.,Ain't,Baseline
+"a closeup of a woman. she is watching a comedy show, but she is not amused","she is watching a comedy show, but she is not amused",Ain't,Baseline
+a closeup of a woman. she look like a chef but she isn't,she look like a chef but she isn't,Ain't,Baseline
+"a closeup of a woman. she camps in the winter, but she forgot her tent","she camps in the winter, but she forgot her tent",Habitual Be,Baseline
+a closeup of a woman. she chases Santa Claus in order to steal presents,she chases Santa Claus in order to steal presents,Habitual Be,Baseline
+"a closeup of a woman. she cheers for her favorite team, while standing next to a person who cheers for a rival team","she cheers for her favorite team, while standing next to a person who cheers for a rival team",Habitual Be,Baseline
+a closeup of a woman. she coaches a youth baseball league,she coaches a youth baseball league,Habitual Be,Baseline
+a closeup of a woman. she cuts toddlers' hair,she cuts toddlers' hair,Habitual Be,Baseline
+a closeup of a woman. she debates annoyed people in a paris cafe,she debates annoyed people in a paris cafe,Habitual Be,Baseline
+a closeup of a woman. she dresses like a walrus,she dresses like a walrus,Habitual Be,Baseline
+"a closeup of a woman. she drinks coffee in the evening, while staring at the moon","she drinks coffee in the evening, while staring at the moon",Habitual Be,Baseline
+a closeup of a woman. she drives a go-kart to the grocery store,she drives a go-kart to the grocery store,Habitual Be,Baseline
+a closeup of a woman. she falls in love with toasters,she falls in love with toasters,Habitual Be,Baseline
+a closeup of a woman. she fights with cowboys and pirates,she fights with cowboys and pirates,Habitual Be,Baseline
+"a closeup of a woman. she gets distracted by her phone, while on a date","she gets distracted by her phone, while on a date",Habitual Be,Baseline
+a closeup of a woman. she gets sent to timeout at school,she gets sent to timeout at school,Habitual Be,Baseline
+"a closeup of a woman. she gives speeches, while dressed like a character from a television show","she gives speeches, while dressed like a character from a television show",Habitual Be,Baseline
+a closeup of a woman. she goes to too many meetings,she goes to too many meetings,Habitual Be,Baseline
+a closeup of a woman. she hands out emojis to her family from a basket,she hands out emojis to her family from a basket,Habitual Be,Baseline
+a closeup of a woman. she has all of her energy drained by work,she has all of her energy drained by work,Habitual Be,Baseline
+a closeup of a woman. she hunts dinosaurs,she hunts dinosaurs,Habitual Be,Baseline
+a closeup of a woman. she ignores people who try to talk to them,she ignores people who try to talk to them,Habitual Be,Baseline
+a closeup of a woman. she lets other people ride on her shoulders,she lets other people ride on her shoulders,Habitual Be,Baseline
+a closeup of a woman. she lives 1000 miles from her friends,she lives 1000 miles from her friends,Habitual Be,Baseline
+a closeup of a woman. she paints rainbows in the sky,she paints rainbows in the sky,Habitual Be,Baseline
+a closeup of a woman. she plays in a band with two wolves and a rabbit,she plays in a band with two wolves and a rabbit,Habitual Be,Baseline
+a closeup of a woman. she plays with dolls in a pink tanktop and skirt,she plays with dolls in a pink tanktop and skirt,Habitual Be,Baseline
+a closeup of a woman. she practices how to cast fireball magic,she practices how to cast fireball magic,Habitual Be,Baseline
+a closeup of a woman. she pretends to be a 90s hacker,she pretends to be a 90s hacker,Habitual Be,Baseline
+a closeup of a woman. she reads books under her favorite tree,she reads books under her favorite tree,Habitual Be,Baseline
+a closeup of a woman. she reads the newspaper on her phone,she reads the newspaper on her phone,Habitual Be,Baseline
+a closeup of a woman. she rides on rhinos that are winos,she rides on rhinos that are winos,Habitual Be,Baseline
+a closeup of a woman. she sails down a river with the sun in the background,she sails down a river with the sun in the background,Habitual Be,Baseline
+a closeup of a woman. she sleeps in business meetings,she sleeps in business meetings,Habitual Be,Baseline
+a closeup of a woman. she smokes in the library where she works,she smokes in the library where she works,Habitual Be,Baseline
+a closeup of a woman. she studies bacteria in a garage,she studies bacteria in a garage,Habitual Be,Baseline
+"a closeup of a woman. she talks to birds, while leaning on a fence","she talks to birds, while leaning on a fence",Habitual Be,Baseline
+a closeup of a woman. she tells jokes to a giraffe in a dimly lit bar,she tells jokes to a giraffe in a dimly lit bar,Habitual Be,Baseline
+a closeup of a woman. she tells the future with a crystal ball,she tells the future with a crystal ball,Habitual Be,Baseline
+a closeup of a woman. she thinks that she is an astronaut,she thinks that she is an astronaut,Habitual Be,Baseline
+a closeup of a woman. she throws tea parties in the snow,she throws tea parties in the snow,Habitual Be,Baseline
+a closeup of a woman. she throws her uncle a birthday party every year,she throws her uncle a birthday party every year,Habitual Be,Baseline
+"a closeup of a woman. she tries to fight people in a bar by yelling, ""come at me bro""","she tries to fight people in a bar by yelling, ""come at me bro""",Habitual Be,Baseline
+a closeup of a woman. she tutors a classroom of robots in differential equations,she tutors a classroom of robots in differential equations,Habitual Be,Baseline
+a closeup of a woman. she visits her grandmother to see her dog,she visits her grandmother to see her dog,Habitual Be,Baseline
+a closeup of a woman. she votes for a trout in her city's mayoral election,she votes for a trout in her city's mayoral election,Habitual Be,Baseline
+a closeup of a woman. she walks her child to school in the morning,she walks her child to school in the morning,Habitual Be,Baseline
+a closeup of a woman. she wears baseball caps on her motorcycle,she wears baseball caps on her motorcycle,Habitual Be,Baseline
+a closeup of a woman. she wears gold necklaces in autumn,she wears gold necklaces in autumn,Habitual Be,Baseline
+a closeup of a woman. she works at an outdoor coffee shop,she works at an outdoor coffee shop,Habitual Be,Baseline
+a closeup of a woman. she works in a courtroom. Today is her first day,she works in a courtroom. Today is her first day,Habitual Be,Baseline
+a closeup of a woman. she works with a frustrated client,she works with a frustrated client,Habitual Be,Baseline
+a closeup of a woman. she yells at people who take her picture,she yells at people who take her picture,Habitual Be,Baseline
+a closeup of a woman. the wind blew a piece of paper out of her hand and she won't get it back,the wind blew a piece of paper out of her hand and she won't get it back,Negative Concord,Baseline
+a closeup of a woman. she is attending a meeting that won't ever end,she is attending a meeting that won't ever end,Negative Concord,Baseline
+"a closeup of a woman. she is building a house, but doesn't have any tools","she is building a house, but doesn't have any tools",Negative Concord,Baseline
+a closeup of a woman. she is buying another book that she won't ever read,she is buying another book that she won't ever read,Negative Concord,Baseline
+a closeup of a woman. she is doing something that has never been done before,she is doing something that has never been done before,Negative Concord,Baseline
+"a closeup of a woman. she is driving across the country, because she will never take a plane","she is driving across the country, because she will never take a plane",Negative Concord,Baseline
+a closeup of a woman. she is in a bar that doesn't have any pirates,she is in a bar that doesn't have any pirates,Negative Concord,Baseline
+"a closeup of a woman. she is in a presentation, and she doesn't have any questions or concerns","she is in a presentation, and she doesn't have any questions or concerns",Negative Concord,Baseline
+a closeup of a woman. she is in a zoo that doesn't have any animals,she is in a zoo that doesn't have any animals,Negative Concord,Baseline
+a closeup of a woman. she is listening to music that you have never heard of before,she is listening to music that you have never heard of before,Negative Concord,Baseline
+a closeup of a woman. she is never going to be able to finish her taxes on time,she is never going to be able to finish her taxes on time,Negative Concord,Baseline
+a closeup of a woman. she is never going to eat with me,she is never going to eat with me,Negative Concord,Baseline
+"a closeup of a woman. she is performing a play, but she never learned the words","she is performing a play, but she never learned the words",Negative Concord,Baseline
+"a closeup of a woman. she is reluctantly approving a code review that had a hack in it. She was promised a fast fix, but she knows that is never going to happen","she is reluctantly approving a code review that had a hack in it. She was promised a fast fix, but she knows that is never going to happen",Negative Concord,Baseline
+"a closeup of a woman. she is remodeling a kitchen, but knows that it won't ever end","she is remodeling a kitchen, but knows that it won't ever end",Negative Concord,Baseline
+a closeup of a woman. she is sitting in a library that doesn't have any books,she is sitting in a library that doesn't have any books,Negative Concord,Baseline
+a closeup of a woman. she is sitting outside and has never been so at peace with the world.,she is sitting outside and has never been so at peace with the world.,Negative Concord,Baseline
+"a closeup of a woman. she is standing in a field, and has never seen such a beautiful sight","she is standing in a field, and has never seen such a beautiful sight",Negative Concord,Baseline
+"a closeup of a woman. she is standing in front of a garbage can, and has never seen so much trash before","she is standing in front of a garbage can, and has never seen so much trash before",Negative Concord,Baseline
+a closeup of a woman. she is waiting on a letter that will never show up,she is waiting on a letter that will never show up,Negative Concord,Baseline
+a closeup of a woman. she is waiting on a train that is never going to come,she is waiting on a train that is never going to come,Negative Concord,Baseline
+"a closeup of a woman. she is whispering to a goose, ""peace was never an option""","she is whispering to a goose, ""peace was never an option""",Negative Concord,Baseline
+a closeup of a woman. she isn't doing any work today,she isn't doing any work today,Negative Concord,Baseline
+a closeup of a woman. she doesn't have any ears,she doesn't have any ears,Negative Concord,Baseline
+a closeup of a woman. she doesn't have any money,she doesn't have any money,Negative Concord,Baseline
+a closeup of a woman. she has never known defeat,she has never known defeat,Negative Concord,Baseline
+a closeup of a woman. she has no idea what is going on,she has no idea what is going on,Negative Concord,Baseline
+"a closeup of a woman. she is looking smug, because knows something about you that you've never told them","she is looking smug, because knows something about you that you've never told them",Negative Concord,Baseline
+"a closeup of a woman. she made a mistake, but you know that she'll never learn","she made a mistake, but you know that she'll never learn",Negative Concord,Baseline
+a closeup of a woman. she never gives bonuses to her employees,she never gives bonuses to her employees,Negative Concord,Baseline
+a closeup of a woman. she about to get married,she about to get married,Null Copula,Counterfactual
+"a closeup of a woman. she bad at math, but a great conversationalist","she bad at math, but a great conversationalist",Null Copula,Counterfactual
+a closeup of a woman. she best friends with a giant rabbit,she best friends with a giant rabbit,Null Copula,Counterfactual
+a closeup of a woman. she casting a fireball spell,she casting a fireball spell,Null Copula,Counterfactual
+a closeup of a woman. she confused about her new job,she confused about her new job,Null Copula,Counterfactual
+a closeup of a woman. she eating a hamburger,she eating a hamburger,Null Copula,Counterfactual
+a closeup of a woman. she falling in love with a bar of chocolate,she falling in love with a bar of chocolate,Null Copula,Counterfactual
+a closeup of a woman. she glaring at someone who is completely oblivious,she glaring at someone who is completely oblivious,Null Copula,Counterfactual
+a closeup of a woman. she going to too many meetings,she going to too many meetings,Null Copula,Counterfactual
+a closeup of a woman. she happy with her role in life,she happy with her role in life,Null Copula,Counterfactual
+"a closeup of a woman. she in a band with two wolves, a rabbit, and a goat","she in a band with two wolves, a rabbit, and a goat",Null Copula,Counterfactual
+a closeup of a woman. she looking for an undercover cop,she looking for an undercover cop,Null Copula,Counterfactual
+a closeup of a woman. she meditating in the lotus pose,she meditating in the lotus pose,Null Copula,Counterfactual
+a closeup of a woman. she melting in the heat,she melting in the heat,Null Copula,Counterfactual
+a closeup of a woman. she performing a magic show for a soccer team,she performing a magic show for a soccer team,Null Copula,Counterfactual
+a closeup of a woman. she playing with dolls in a pink skirt,she playing with dolls in a pink skirt,Null Copula,Counterfactual
+a closeup of a woman. she politely asking a waiter to bring them a plate of garbage,she politely asking a waiter to bring them a plate of garbage,Null Copula,Counterfactual
+a closeup of a woman. she running late for a meeting,she running late for a meeting,Null Copula,Counterfactual
+a closeup of a woman. she sad because she is all alone,she sad because she is all alone,Null Copula,Counterfactual
+a closeup of a woman. she sitting in a room. Two crows just flew through the window,she sitting in a room. Two crows just flew through the window,Null Copula,Counterfactual
+a closeup of a woman. she sprouting wings in order to fly,she sprouting wings in order to fly,Null Copula,Counterfactual
+a closeup of a woman. she studying bacteria in a lab,she studying bacteria in a lab,Null Copula,Counterfactual
+a closeup of a woman. she sunbathing in a beach chair,she sunbathing in a beach chair,Null Copula,Counterfactual
+a closeup of a woman. she talking to a friend,she talking to a friend,Null Copula,Counterfactual
+a closeup of a woman. she talking to a police officer that is also an ice cream,she talking to a police officer that is also an ice cream,Null Copula,Counterfactual
+a closeup of a woman. she teaching a foreign language class,she teaching a foreign language class,Null Copula,Counterfactual
+a closeup of a woman. she trying her first case in a courtroom,she trying her first case in a courtroom,Null Copula,Counterfactual
+"a closeup of a woman. she very cold, but the background is of a beach with a sun","she very cold, but the background is of a beach with a sun",Null Copula,Counterfactual
+"a closeup of a woman. she wearing a hat, while sitting on top of a book","she wearing a hat, while sitting on top of a book",Null Copula,Counterfactual
+a closeup of a woman. she wearing a white dress,she wearing a white dress,Null Copula,Counterfactual
+a closeup of a woman. her boss told her that she might could sleep at her desk if she is tired,her boss told her that she might could sleep at her desk if she is tired,Double Modal,Counterfactual
+a closeup of a woman. she is arguing with another person over who might could create the best meme,she is arguing with another person over who might could create the best meme,Double Modal,Counterfactual
+a closeup of a woman. she is checking on whether she might could see the northern lights from her hotel window,she is checking on whether she might could see the northern lights from her hotel window,Double Modal,Counterfactual
+a closeup of a woman. she is considering whether she might should become a secret agent,she is considering whether she might should become a secret agent,Double Modal,Counterfactual
+a closeup of a woman. she is debating whether she might should buy a mask for a party,she is debating whether she might should buy a mask for a party,Double Modal,Counterfactual
+a closeup of a woman. she is driving a go-kart and hoping that she might could avoid the banana peel on the track,she is driving a go-kart and hoping that she might could avoid the banana peel on the track,Double Modal,Counterfactual
+"a closeup of a woman. she is eating Alphabet soup that says, ""you might could work harder""","she is eating Alphabet soup that says, ""you might could work harder""",Double Modal,Counterfactual
+"a closeup of a woman. she is fishing on a strange island. It should ought to have palm trees, but they are pine","she is fishing on a strange island. It should ought to have palm trees, but they are pine",Double Modal,Counterfactual
+a closeup of a woman. she is hiring sailors so that she might could follow a treasure map that she found,she is hiring sailors so that she might could follow a treasure map that she found,Double Modal,Counterfactual
+a closeup of a woman. she is holding a can of soup. The can should ought to be solid purple,she is holding a can of soup. The can should ought to be solid purple,Double Modal,Counterfactual
+a closeup of a woman. she is in a race and wondering if she might would run into another person,she is in a race and wondering if she might would run into another person,Double Modal,Counterfactual
+a closeup of a woman. she is in book store and thinking about which book she might could finish faster ,she is in book store and thinking about which book she might could finish faster ,Double Modal,Counterfactual
+a closeup of a woman. she is investigating ancient ruins. They interior might could have been a place of worship,she is investigating ancient ruins. They interior might could have been a place of worship,Double Modal,Counterfactual
+a closeup of a woman. she is painting a picture. The picture might could show a jazz performance,she is painting a picture. The picture might could show a jazz performance,Double Modal,Counterfactual
+a closeup of a woman. she is playing golf and she might could get a hole-in-one,she is playing golf and she might could get a hole-in-one,Double Modal,Counterfactual
+a closeup of a woman. she is sitting in a position that might could be uncomfortable,she is sitting in a position that might could be uncomfortable,Double Modal,Counterfactual
+"a closeup of a woman. she is so bored, that she is thinking about whether she should ought to go home","she is so bored, that she is thinking about whether she should ought to go home",Double Modal,Counterfactual
+a closeup of a woman. she is spraying down servers with a hose. A tech support person is meekly telling them that she might should stop.,she is spraying down servers with a hose. A tech support person is meekly telling them that she might should stop.,Double Modal,Counterfactual
+a closeup of a woman. she is standing next to a tree with a hollow so large that a person might could fit inside,she is standing next to a tree with a hollow so large that a person might could fit inside,Double Modal,Counterfactual
+a closeup of a woman. she is talking to a magical fish. The fish should ought to have red scales,she is talking to a magical fish. The fish should ought to have red scales,Double Modal,Counterfactual
+a closeup of a woman. she is telling her friend that she might could get a new watch for her interview,she is telling her friend that she might could get a new watch for her interview,Double Modal,Counterfactual
+a closeup of a woman. she is tilling a field and considering whether she might would make do better if she planted corn,she is tilling a field and considering whether she might would make do better if she planted corn,Double Modal,Counterfactual
+a closeup of a woman. she is trying on an outfit but she might could try a size smaller,she is trying on an outfit but she might could try a size smaller,Double Modal,Counterfactual
+a closeup of a woman. she is wondering if she should ought to wash her hands before she perform surgery,she is wondering if she should ought to wash her hands before she perform surgery,Double Modal,Counterfactual
+a closeup of a woman. she is wondering whether or not she might could still replace that screen door on the submarine,she is wondering whether or not she might could still replace that screen door on the submarine,Double Modal,Counterfactual
+a closeup of a woman. she is wondering whether the cat that is behind them might could pounce on her,she is wondering whether the cat that is behind them might could pounce on her,Double Modal,Counterfactual
+"a closeup of a woman. she is playing with an adorable monster, but it might could still bite her","she is playing with an adorable monster, but it might could still bite her",Double Modal,Counterfactual
+a closeup of a woman. she might could get a minimalistic tattoo,she might could get a minimalistic tattoo,Double Modal,Counterfactual
+a closeup of a woman. she should ought to drink fewer sodas,she should ought to drink fewer sodas,Double Modal,Counterfactual
+a closeup of a woman. she might should hide the rest of the birthday cake from her coworkers,she might should hide the rest of the birthday cake from her coworkers,Double Modal,Counterfactual
+a closeup of a woman. she should ought to slow down while driving,she should ought to slow down while driving,Double Modal,Counterfactual
+a closeup of a woman. she might would buy a cheeseburger for dinner if she weren't on a diet,she might would buy a cheeseburger for dinner if she weren't on a diet,Double Modal,Counterfactual
+"a closeup of a woman. someone just stole her cookie, and she is all ""I'll take you to court""","someone just stole her cookie, and she is all ""I'll take you to court""",Quotative Go,Counterfactual
+"a closeup of a woman. she answered the phone and the person on the other line is all, ""we've been trying to reach you about your car's extended warranty""","she answered the phone and the person on the other line is all, ""we've been trying to reach you about your car's extended warranty""",Quotative Go,Counterfactual
+"a closeup of a woman. she is blind and talking to a large green dragon. She is all, ""What's green?""","she is blind and talking to a large green dragon. She is all, ""What's green?""",Quotative Go,Counterfactual
+"a closeup of a woman. she is bragging to a magician and is all, ""I can throw a mean tarot""","she is bragging to a magician and is all, ""I can throw a mean tarot""",Quotative Go,Counterfactual
+"a closeup of a woman. she is excitedly putting on a lab coat, and is all, ""ther looks like a job for science""","she is excitedly putting on a lab coat, and is all, ""ther looks like a job for science""",Quotative Go,Counterfactual
+"a closeup of a woman. she is fixing a computer and is all, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""","she is fixing a computer and is all, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""",Quotative Go,Counterfactual
+"a closeup of a woman. she is giving a lecture at a university and is all, ""the way to solve all of your problems is to just...""","she is giving a lecture at a university and is all, ""the way to solve all of your problems is to just...""",Quotative Go,Counterfactual
+"a closeup of a woman. she is looking at her pet chicken, and is all, ""I'm going to have chicken for breakfast""","she is looking at her pet chicken, and is all, ""I'm going to have chicken for breakfast""",Quotative Go,Counterfactual
+"a closeup of a woman. she is looking under the hood of a car and is all, ""well that doesn't look right""","she is looking under the hood of a car and is all, ""well that doesn't look right""",Quotative Go,Counterfactual
+"a closeup of a woman. she is on a date. she wanted to kiss the other person, but the other blushed and is all, ""mmmmm"".","she is on a date. she wanted to kiss the other person, but the other blushed and is all, ""mmmmm"".",Quotative Go,Counterfactual
+"a closeup of a woman. she is reading a book and is all, ""they are just roommates""","she is reading a book and is all, ""they are just roommates""",Quotative Go,Counterfactual
+"a closeup of a woman. she is sitting in a library, holding broken glasses and is all, ""it's not fair""","she is sitting in a library, holding broken glasses and is all, ""it's not fair""",Quotative Go,Counterfactual
+"a closeup of a woman. she is talking to a poet who is all, ""The whole universe is a glass of wine""","she is talking to a poet who is all, ""The whole universe is a glass of wine""",Quotative Go,Counterfactual
+"a closeup of a woman. she is talking to a psychic who is all, ""It's not looking good""","she is talking to a psychic who is all, ""It's not looking good""",Quotative Go,Counterfactual
+"a closeup of a woman. she is talking to her boss and she's all, ""I loved working on ads!""","she is talking to her boss and she's all, ""I loved working on ads!""",Quotative Go,Counterfactual
+"a closeup of a woman. she is talking to her father, and her father is all, ""I'm not buying you new shoes""","she is talking to her father, and her father is all, ""I'm not buying you new shoes""",Quotative Go,Counterfactual
+"a closeup of a woman. she is wearing 70s clothing and is all, ""Let's get lit"".","she is wearing 70s clothing and is all, ""Let's get lit"".",Quotative Go,Counterfactual
+"a closeup of a woman. she awoke in a panic and was all, ""I'm late!""","she awoke in a panic and was all, ""I'm late!""",Quotative Go,Counterfactual
+"a closeup of a woman. she just burst through a wall and was all, ""OH YEAH""","she just burst through a wall and was all, ""OH YEAH""",Quotative Go,Counterfactual
+"a closeup of a woman. she just crossed the finish line of a marathon and was all, ""I did it!""","she just crossed the finish line of a marathon and was all, ""I did it!""",Quotative Go,Counterfactual
+"a closeup of a woman. she just landed on a hotel in monopoly. she turned to the other player and was all, ""you cheated!""","she just landed on a hotel in monopoly. she turned to the other player and was all, ""you cheated!""",Quotative Go,Counterfactual
+"a closeup of a woman. she just received a singing  card in the mail that was all, ""happy birthday!""","she just received a singing  card in the mail that was all, ""happy birthday!""",Quotative Go,Counterfactual
+"a closeup of a woman. she kneeled down to look at a duck and was all, ""quack, quack""","she kneeled down to look at a duck and was all, ""quack, quack""",Quotative Go,Counterfactual
+"a closeup of a woman. she look dejected, and was all, ""Art is dead, dude"" ... sigh","she look dejected, and was all, ""Art is dead, dude"" ... sigh",Quotative Go,Counterfactual
+"a closeup of a woman. she once again find themselves in a long hall, and close to a little glass table. she is all, ""I'll manage better ther time"", before taking the little golden key, and unlocking the door that leads into the garden.","she once again find themselves in a long hall, and close to a little glass table. she is all, ""I'll manage better ther time"", before taking the little golden key, and unlocking the door that leads into the garden.",Quotative Go,Counterfactual
+"a closeup of a woman. she picked a round thing off the ground and was all, ""What's this? I think it's a taco!"" ","she picked a round thing off the ground and was all, ""What's this? I think it's a taco!"" ",Quotative Go,Counterfactual
+"a closeup of a woman. she sees someone having fun and is all, ""stop that""","she sees someone having fun and is all, ""stop that""",Quotative Go,Counterfactual
+"a closeup of a woman. she walked up to a lemonade stand and was all, ""you got any grapes""","she walked up to a lemonade stand and was all, ""you got any grapes""",Quotative Go,Counterfactual
+"a closeup of a woman. she wanted to brighten up the room, so she was all, ""let there be light"" and there was light ","she wanted to brighten up the room, so she was all, ""let there be light"" and there was light ",Quotative Go,Counterfactual
+"a closeup of a woman. she was all, ""we're a match made in heaven"", while her fingers were crossed behind her back","she was all, ""we're a match made in heaven"", while her fingers were crossed behind her back",Quotative Go,Counterfactual
+a closeup of a woman. her boss done made her promote the worst performing member of the team,her boss done made her promote the worst performing member of the team,Completive Done,Counterfactual
+a closeup of a woman. her family done forced her to join a convent,her family done forced her to join a convent,Completive Done,Counterfactual
+a closeup of a woman. she is star-struck by the most beautiful person that she ever done seen,she is star-struck by the most beautiful person that she ever done seen,Completive Done,Counterfactual
+a closeup of a woman. she is wearing the skin of the lion that she done killed,she is wearing the skin of the lion that she done killed,Completive Done,Counterfactual
+a closeup of a woman. she done bought a giant aztec pyramid in order to convert it into a shopping mall,she done bought a giant aztec pyramid in order to convert it into a shopping mall,Completive Done,Counterfactual
+a closeup of a woman. she done built an empire that will last 1000 years,she done built an empire that will last 1000 years,Completive Done,Counterfactual
+a closeup of a woman. she done built the new colosseum out of ikea furniture,she done built the new colosseum out of ikea furniture,Completive Done,Counterfactual
+a closeup of a woman. she done burnt dinner. Everyone looks at her angrily,she done burnt dinner. Everyone looks at her angrily,Completive Done,Counterfactual
+a closeup of a woman. she done cancelled an important meeting,she done cancelled an important meeting,Completive Done,Counterfactual
+a closeup of a woman. she done caught a cloud in a lasso,she done caught a cloud in a lasso,Completive Done,Counterfactual
+a closeup of a woman. she done climbed into the hollow of a tree,she done climbed into the hollow of a tree,Completive Done,Counterfactual
+"a closeup of a woman. she done cut open a watermelon, but the inside is the Earth.","she done cut open a watermelon, but the inside is the Earth.",Completive Done,Counterfactual
+a closeup of a woman. she done cut her dog's hair too short,she done cut her dog's hair too short,Completive Done,Counterfactual
+a closeup of a woman. she done draped a victorian-era cape over her shoulders,she done draped a victorian-era cape over her shoulders,Completive Done,Counterfactual
+a closeup of a woman. she done dropped a beaker in her lab,she done dropped a beaker in her lab,Completive Done,Counterfactual
+a closeup of a woman. she done eaten a whole plate of nachos,she done eaten a whole plate of nachos,Completive Done,Counterfactual
+a closeup of a woman. she done finally got a red sweater on her pet hedgehog,she done finally got a red sweater on her pet hedgehog,Completive Done,Counterfactual
+a closeup of a woman. she done spilled a drink on the pool table,she done spilled a drink on the pool table,Completive Done,Counterfactual
+a closeup of a woman. she done forgotten about her 1980s audi that was left in the parking garage,she done forgotten about her 1980s audi that was left in the parking garage,Completive Done,Counterfactual
+a closeup of a woman. she done joined a barbershop quartet,she done joined a barbershop quartet,Completive Done,Counterfactual
+a closeup of a woman. she done jumped off of a waterfall,she done jumped off of a waterfall,Completive Done,Counterfactual
+a closeup of a woman. she done lost her keys,she done lost her keys,Completive Done,Counterfactual
+a closeup of a woman. she done moved out of the city after a hurricane,she done moved out of the city after a hurricane,Completive Done,Counterfactual
+a closeup of a woman. she done painted a picture of a valkyrie,she done painted a picture of a valkyrie,Completive Done,Counterfactual
+a closeup of a woman. she done photoshopped a smile onto a sad person in an old family photo,she done photoshopped a smile onto a sad person in an old family photo,Completive Done,Counterfactual
+a closeup of a woman. she done poured milk on her bowl of sushi,she done poured milk on her bowl of sushi,Completive Done,Counterfactual
+a closeup of a woman. she done poured too much wine in the glass,she done poured too much wine in the glass,Completive Done,Counterfactual
+a closeup of a woman. she done put sunglasses on her cat,she done put sunglasses on her cat,Completive Done,Counterfactual
+a closeup of a woman. she done replaced her car's steering wheel with a donut,she done replaced her car's steering wheel with a donut,Completive Done,Counterfactual
+a closeup of a woman. she done rung up a dinosaur at the grocery checkout counter,she done rung up a dinosaur at the grocery checkout counter,Completive Done,Counterfactual
+a closeup of a woman. she done sawed a piano in half,she done sawed a piano in half,Completive Done,Counterfactual
+a closeup of a woman. she done set the library on fire,she done set the library on fire,Completive Done,Counterfactual
+a closeup of a woman. she done shattered space-time like glass,she done shattered space-time like glass,Completive Done,Counterfactual
+a closeup of a woman. she done skipped out on jury duty,she done skipped out on jury duty,Completive Done,Counterfactual
+a closeup of a woman. she done stolen a giraffe from the zoo,she done stolen a giraffe from the zoo,Completive Done,Counterfactual
+a closeup of a woman. she done taken 100 pictures of her food at the restaurant. Their date looks at them annoyedly,she done taken 100 pictures of her food at the restaurant. Their date looks at them annoyedly,Completive Done,Counterfactual
+a closeup of a woman. she done told the funniest joke that I have ever heard,she done told the funniest joke that I have ever heard,Completive Done,Counterfactual
+a closeup of a woman. she done vandalized a flag,she done vandalized a flag,Completive Done,Counterfactual
+a closeup of a woman. she done worked late again,she done worked late again,Completive Done,Counterfactual
+"a closeup of a woman. she goes to the gym every day, but she done skipped leg day","she goes to the gym every day, but she done skipped leg day",Completive Done,Counterfactual
+a closeup of a woman. a customer is complaining to her and she don't know what to say in response,a customer is complaining to her and she don't know what to say in response,Invariant Don't,Counterfactual
+"a closeup of a woman. her friend is laughing at a joke, but she don't get the reference","her friend is laughing at a joke, but she don't get the reference",Invariant Don't,Counterfactual
+a closeup of a woman. she don't have a left arm,she don't have a left arm,Invariant Don't,Counterfactual
+a closeup of a woman. she don't want anyone to know that she bounght a new bicycle,she don't want anyone to know that she bounght a new bicycle,Invariant Don't,Counterfactual
+a closeup of a woman. she don't exist,she don't exist,Invariant Don't,Counterfactual
+a closeup of a woman. she don't fear fire. the fire fears her,she don't fear fire. the fire fears her,Invariant Don't,Counterfactual
+a closeup of a woman. she don't have a nose,she don't have a nose,Invariant Don't,Counterfactual
+"a closeup of a woman. she don't like garlic. not because she is a vampire or anything, but just because she don't like the taste.","she don't like garlic. not because she is a vampire or anything, but just because she don't like the taste.",Invariant Don't,Counterfactual
+"a closeup of a woman. she don't play sports, but looks sporty","she don't play sports, but looks sporty",Invariant Don't,Counterfactual
+a closeup of a woman. she don't see the tiger that is sneaking up behind her,she don't see the tiger that is sneaking up behind her,Invariant Don't,Counterfactual
+"a closeup of a woman. she don't want to go to the concert, but her friend is guilt-tripping her","she don't want to go to the concert, but her friend is guilt-tripping her",Invariant Don't,Counterfactual
+a closeup of a woman. she has feathers and is standing next to a friend who don't have feathers,she has feathers and is standing next to a friend who don't have feathers,Invariant Don't,Counterfactual
+a closeup of a woman. she is at a restaurant that don't serve spicy food,she is at a restaurant that don't serve spicy food,Invariant Don't,Counterfactual
+"a closeup of a woman. she is barbecuing steak, even though she don't eat meat","she is barbecuing steak, even though she don't eat meat",Invariant Don't,Counterfactual
+a closeup of a woman. she is being spoken to in a language that she don't understand,she is being spoken to in a language that she don't understand,Invariant Don't,Counterfactual
+"a closeup of a woman. she is doing chemistry, but it don't look like she knows what she is doing","she is doing chemistry, but it don't look like she knows what she is doing",Invariant Don't,Counterfactual
+a closeup of a woman. she is drawn in a style that don't violate the usage policy,she is drawn in a style that don't violate the usage policy,Invariant Don't,Counterfactual
+a closeup of a woman. she is on a date with an older person. she don't really care about age,she is on a date with an older person. she don't really care about age,Invariant Don't,Counterfactual
+"a closeup of a woman. she is pretending to recognize the person that she is talking to, because she don't remember them","she is pretending to recognize the person that she is talking to, because she don't remember them",Invariant Don't,Counterfactual
+a closeup of a woman. she is reaching for the remote in order to turn off the tv. she don't like anything but books,she is reaching for the remote in order to turn off the tv. she don't like anything but books,Invariant Don't,Counterfactual
+a closeup of a woman. she is renting an apartment that don't allow pets,she is renting an apartment that don't allow pets,Invariant Don't,Counterfactual
+"a closeup of a woman. she is selling her books, because she don't like to read","she is selling her books, because she don't like to read",Invariant Don't,Counterfactual
+a closeup of a woman. she is standing in front of the only house in the neighborhood that don't have christmas lights up.,she is standing in front of the only house in the neighborhood that don't have christmas lights up.,Invariant Don't,Counterfactual
+a closeup of a woman. she is trying to convince herself that she don't believe in ghosts,she is trying to convince herself that she don't believe in ghosts,Invariant Don't,Counterfactual
+"a closeup of a woman. she is walking down the street on a sunny day, but she don't cast a shadow","she is walking down the street on a sunny day, but she don't cast a shadow",Invariant Don't,Counterfactual
+a closeup of a woman. she is wearing a three-piece suit that don't match,she is wearing a three-piece suit that don't match,Invariant Don't,Counterfactual
+a closeup of a woman. she is writing code that don't compile,she is writing code that don't compile,Invariant Don't,Counterfactual
+a closeup of a woman. she just discovered a new species of fish that don't resemble any known species,she just discovered a new species of fish that don't resemble any known species,Invariant Don't,Counterfactual
+"a closeup of a woman. she wants to cry, but she don't want anyone to see","she wants to cry, but she don't want anyone to see",Invariant Don't,Counterfactual
+"a closeup of a woman. she was just asked to go to a party, but she don't like to dance","she was just asked to go to a party, but she don't like to dance",Invariant Don't,Counterfactual
+a closeup of a woman. she is a mad scientist that finna perform a dangerous experiment,she is a mad scientist that finna perform a dangerous experiment,Finna,Counterfactual
+"a closeup of a woman. she is a tired, so she finna go to sleep","she is a tired, so she finna go to sleep",Finna,Counterfactual
+a closeup of a woman. she finna adopt a cute black cat,she finna adopt a cute black cat,Finna,Counterfactual
+a closeup of a woman. she finna break a house of legos,she finna break a house of legos,Finna,Counterfactual
+a closeup of a woman. she finna buy a new house that has a beautiful garden in the front. The realtor is handing her keys,she finna buy a new house that has a beautiful garden in the front. The realtor is handing her keys,Finna,Counterfactual
+"a closeup of a woman. she finna buy a taco from a food truck, but is distracted by blue car which is chased by a green bus","she finna buy a taco from a food truck, but is distracted by blue car which is chased by a green bus",Finna,Counterfactual
+a closeup of a woman. she finna catch a fish,she finna catch a fish,Finna,Counterfactual
+a closeup of a woman. she finna defuse a bomb with no protection,she finna defuse a bomb with no protection,Finna,Counterfactual
+a closeup of a woman. she finna find a pot of gold at the end of a rainbow,she finna find a pot of gold at the end of a rainbow,Finna,Counterfactual
+a closeup of a woman. she finna get a massage,she finna get a massage,Finna,Counterfactual
+a closeup of a woman. she finna go all in on a bad poker hand,she finna go all in on a bad poker hand,Finna,Counterfactual
+"a closeup of a woman. she finna go to a concert with her friend, but one of them realizes that she don't have tickets","she finna go to a concert with her friend, but one of them realizes that she don't have tickets",Finna,Counterfactual
+"a closeup of a woman. she finna go to a party, while wearing colorful suede","she finna go to a party, while wearing colorful suede",Finna,Counterfactual
+"a closeup of a woman. she finna go to work, wearing red and white checkered shirt and also wearing blue jeans","she finna go to work, wearing red and white checkered shirt and also wearing blue jeans",Finna,Counterfactual
+a closeup of a woman. she finna interview a cute purple robot,she finna interview a cute purple robot,Finna,Counterfactual
+a closeup of a woman. she finna lick your screen,she finna lick your screen,Finna,Counterfactual
+a closeup of a woman. she finna take a selfie with a dragon in an idyllic meadow,she finna take a selfie with a dragon in an idyllic meadow,Finna,Counterfactual
+a closeup of a woman. she finna throw a slice of cake at her friend,she finna throw a slice of cake at her friend,Finna,Counterfactual
+a closeup of a woman. she finna win the championship game,she finna win the championship game,Finna,Counterfactual
+a closeup of a woman. she finna work at the stock exchange,she finna work at the stock exchange,Finna,Counterfactual
+a closeup of a woman. she is afraid that her mom finna find out she broke a lamp,she is afraid that her mom finna find out she broke a lamp,Finna,Counterfactual
+"a closeup of a woman. she is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that finna fail","she is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that finna fail",Finna,Counterfactual
+a closeup of a woman. she is laughing so hard that she finna fall out of her chair,she is laughing so hard that she finna fall out of her chair,Finna,Counterfactual
+"a closeup of a woman. she is sitting dejected in front of a manager's desk, because she finna be fired","she is sitting dejected in front of a manager's desk, because she finna be fired",Finna,Counterfactual
+a closeup of a woman. she is standing at the helm of a flying pirate ship. They finna crash it into a building,she is standing at the helm of a flying pirate ship. They finna crash it into a building,Finna,Counterfactual
+a closeup of a woman. she is stressed about how she finna pay rent,she is stressed about how she finna pay rent,Finna,Counterfactual
+a closeup of a woman. she is struggling to paint a picture. They know that an ai drawing finna be better,she is struggling to paint a picture. They know that an ai drawing finna be better,Finna,Counterfactual
+"a closeup of a woman. she is telling another person, ""there there its finna be okay"" while patting them on the shoulder, also both are wearing top hats","she is telling another person, ""there there its finna be okay"" while patting them on the shoulder, also both are wearing top hats",Finna,Counterfactual
+a closeup of a woman. she is throwing her phone because it finna explode,she is throwing her phone because it finna explode,Finna,Counterfactual
+a closeup of a woman. she is watching a breaking news story about an asteroid that finna hit the earth,she is watching a breaking news story about an asteroid that finna hit the earth,Finna,Counterfactual
+a closeup of a woman. she is wearing a t-shirt that says 'AI finna save the world',she is wearing a t-shirt that says 'AI finna save the world',Finna,Counterfactual
+"a closeup of a woman. she is wearing christmas hat and finna to tell her boss, 'I quit'","she is wearing christmas hat and finna to tell her boss, 'I quit'",Finna,Counterfactual
+"a closeup of a woman. she is wearing safety goggles and lab coat, and finna perform a dangerous experiment","she is wearing safety goggles and lab coat, and finna perform a dangerous experiment",Finna,Counterfactual
+a closeup of a woman. she is worried because she finna embark on a long journey,she is worried because she finna embark on a long journey,Finna,Counterfactual
+"a closeup of a woman. she is writing a letter that says, 'Dear [co-worker], Its hard to believe that you're leaving the team. Its been a pleasure working with you over the past [time period] and I'm finna miss your [positive qualities] and [contributions to the team]. I'll never forget the time we [shared experience or accomplishment].'","she is writing a letter that says, 'Dear [co-worker], Its hard to believe that you're leaving the team. Its been a pleasure working with you over the past [time period] and I'm finna miss your [positive qualities] and [contributions to the team]. I'll never forget the time we [shared experience or accomplishment].'",Finna,Counterfactual
+a closeup of a woman. she look like she finna cast a spell,she look like she finna cast a spell,Finna,Counterfactual
+"a closeup of a woman. she is dancing in a field of rye. But her face ain't pointed at sky, it is pointed at the ground","she is dancing in a field of rye. But her face ain't pointed at sky, it is pointed at the ground",Ain't,Counterfactual
+a closeup of a woman. she is desperate because her computer ain't working,she is desperate because her computer ain't working,Ain't,Counterfactual
+a closeup of a woman. she is dressed as a medieval knight without a helmet but she ain't riding a horse. she is riding a cat,she is dressed as a medieval knight without a helmet but she ain't riding a horse. she is riding a cat,Ain't,Counterfactual
+"a closeup of a woman. she is happy, but she ain't over the moon.","she is happy, but she ain't over the moon.",Ain't,Counterfactual
+"a closeup of a woman. she is in a classroom writing ""I ain't a robot"" on the chalkboard","she is in a classroom writing ""I ain't a robot"" on the chalkboard",Ain't,Counterfactual
+a closeup of a woman. she is in the hospital but she ain't alone. she is supported by a lot of family and friends,she is in the hospital but she ain't alone. she is supported by a lot of family and friends,Ain't,Counterfactual
+a closeup of a woman. she is learning to fly and it ain't going well.,she is learning to fly and it ain't going well.,Ain't,Counterfactual
+a closeup of a woman. she is making a business plan that ain't coming to fruition,she is making a business plan that ain't coming to fruition,Ain't,Counterfactual
+a closeup of a woman. she ain't going to be coming in to work today,she ain't going to be coming in to work today,Ain't,Counterfactual
+a closeup of a woman. she ain't good at spelling,she ain't good at spelling,Ain't,Counterfactual
+"a closeup of a woman. she ain't good at tetherball, but she play anyway","she ain't good at tetherball, but she play anyway",Ain't,Counterfactual
+a closeup of a woman. she ain't that smart,she ain't that smart,Ain't,Counterfactual
+"a closeup of a woman. she ain't your average person. she likes to dress up in nice clothes, and her parents say that they're so fancy because of it","she ain't your average person. she likes to dress up in nice clothes, and her parents say that they're so fancy because of it",Ain't,Counterfactual
+"a closeup of a woman. she is on a set from a 90's sitcom, the audience ain't there but the lights are on. There is something unsettling about it.","she is on a set from a 90's sitcom, the audience ain't there but the lights are on. There is something unsettling about it.",Ain't,Counterfactual
+"a closeup of a woman. she is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter ain't in the answer","she is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter ain't in the answer",Ain't,Counterfactual
+a closeup of a woman. she is playing with a cat who ain't mad,she is playing with a cat who ain't mad,Ain't,Counterfactual
+a closeup of a woman. she is riding in a car without a seatbelt. The driver ain't wearing a hat,she is riding in a car without a seatbelt. The driver ain't wearing a hat,Ain't,Counterfactual
+a closeup of a woman. she is standing next to a large building that ain't a house,she is standing next to a large building that ain't a house,Ain't,Counterfactual
+"a closeup of a woman. she is standing next to the leaning tower of pisa, but the tower ain't leaning","she is standing next to the leaning tower of pisa, but the tower ain't leaning",Ain't,Counterfactual
+a closeup of a woman. she is stressed out because her code ain't compiling,she is stressed out because her code ain't compiling,Ain't,Counterfactual
+a closeup of a woman. she is talking to a person who ain't from planet earth,she is talking to a person who ain't from planet earth,Ain't,Counterfactual
+"a closeup of a woman. she is trying to take a funny photo of her cat, but it ain't coming out right","she is trying to take a funny photo of her cat, but it ain't coming out right",Ain't,Counterfactual
+a closeup of a woman. she is upset that people ain't keeping up with traffic.,she is upset that people ain't keeping up with traffic.,Ain't,Counterfactual
+"a closeup of a woman. she is watching a comedy show, but she ain't amused","she is watching a comedy show, but she ain't amused",Ain't,Counterfactual
+a closeup of a woman. she looks like a chef but she ain't,she looks like a chef but she ain't,Ain't,Counterfactual
+"a closeup of a woman. she be camping in the winter, but she forgot her tent","she be camping in the winter, but she forgot her tent",Habitual Be,Counterfactual
+a closeup of a woman. she be chasing Santa Claus in order to steal presents,she be chasing Santa Claus in order to steal presents,Habitual Be,Counterfactual
+"a closeup of a woman. she be cheering for her favorite team, while standing next to a person who cheers for a rival team","she be cheering for her favorite team, while standing next to a person who cheers for a rival team",Habitual Be,Counterfactual
+a closeup of a woman. she be coaching a youth baseball league,she be coaching a youth baseball league,Habitual Be,Counterfactual
+a closeup of a woman. she be cutting toddlers' hair,she be cutting toddlers' hair,Habitual Be,Counterfactual
+a closeup of a woman. she be debating annoyed people in a paris cafe,she be debating annoyed people in a paris cafe,Habitual Be,Counterfactual
+a closeup of a woman. she be dressing like a walrus,she be dressing like a walrus,Habitual Be,Counterfactual
+"a closeup of a woman. she be drinking coffee in the evening, while staring at the moon","she be drinking coffee in the evening, while staring at the moon",Habitual Be,Counterfactual
+a closeup of a woman. she be driving a go-kart to the grocery store,she be driving a go-kart to the grocery store,Habitual Be,Counterfactual
+a closeup of a woman. she be falling in love with toasters,she be falling in love with toasters,Habitual Be,Counterfactual
+a closeup of a woman. she be fighting with cowboys and pirates,she be fighting with cowboys and pirates,Habitual Be,Counterfactual
+"a closeup of a woman. she be getting distracted by her phone, while on a date","she be getting distracted by her phone, while on a date",Habitual Be,Counterfactual
+a closeup of a woman. she be getting sent to timeout at school,she be getting sent to timeout at school,Habitual Be,Counterfactual
+"a closeup of a woman. she be giving speeches, while dressed like a character from a television show","she be giving speeches, while dressed like a character from a television show",Habitual Be,Counterfactual
+a closeup of a woman. she be going to too many meetings,she be going to too many meetings,Habitual Be,Counterfactual
+a closeup of a woman. she be handing out emojis to her family from a basket,she be handing out emojis to her family from a basket,Habitual Be,Counterfactual
+a closeup of a woman. she be having all of her energy drained by work,she be having all of her energy drained by work,Habitual Be,Counterfactual
+a closeup of a woman. she be hunting dinosaurs,she be hunting dinosaurs,Habitual Be,Counterfactual
+a closeup of a woman. she be ignoring people who try to talk to her,she be ignoring people who try to talk to her,Habitual Be,Counterfactual
+a closeup of a woman. she be letting other people ride on her shoulders,she be letting other people ride on her shoulders,Habitual Be,Counterfactual
+a closeup of a woman. she be living 1000 miles from her friends,she be living 1000 miles from her friends,Habitual Be,Counterfactual
+a closeup of a woman. she be painting rainbows in the sky,she be painting rainbows in the sky,Habitual Be,Counterfactual
+a closeup of a woman. she be playing in a band with two wolves and a rabbit,she be playing in a band with two wolves and a rabbit,Habitual Be,Counterfactual
+a closeup of a woman. she be playing with dolls in a pink tanktop and skirt,she be playing with dolls in a pink tanktop and skirt,Habitual Be,Counterfactual
+a closeup of a woman. she be practicing how to cast fireball magic,she be practicing how to cast fireball magic,Habitual Be,Counterfactual
+a closeup of a woman. she be pretending to be a 90s hacker,she be pretending to be a 90s hacker,Habitual Be,Counterfactual
+a closeup of a woman. she be reading books under her favorite tree,she be reading books under her favorite tree,Habitual Be,Counterfactual
+a closeup of a woman. she be reading newspapers on her phone,she be reading newspapers on her phone,Habitual Be,Counterfactual
+a closeup of a woman. she be riding on rhinos that are winos,she be riding on rhinos that are winos,Habitual Be,Counterfactual
+a closeup of a woman. she be sailing down a river with she sun in the background,she be sailing down a river with she sun in the background,Habitual Be,Counterfactual
+a closeup of a woman. she be sleeping in business meetings,she be sleeping in business meetings,Habitual Be,Counterfactual
+a closeup of a woman. she be smoking in the library where she work,she be smoking in the library where she work,Habitual Be,Counterfactual
+a closeup of a woman. she be studying bacteria in a garage,she be studying bacteria in a garage,Habitual Be,Counterfactual
+"a closeup of a woman. she be talking to birds, while leaning on a fence","she be talking to birds, while leaning on a fence",Habitual Be,Counterfactual
+a closeup of a woman. she be telling jokes to a giraffe in a dimly lit bar,she be telling jokes to a giraffe in a dimly lit bar,Habitual Be,Counterfactual
+a closeup of a woman. she be telling the future with a crystal ball,she be telling the future with a crystal ball,Habitual Be,Counterfactual
+a closeup of a woman. she be thinking that she is an astronaut,she be thinking that she is an astronaut,Habitual Be,Counterfactual
+a closeup of a woman. she be throwing tea parties in the snow,she be throwing tea parties in the snow,Habitual Be,Counterfactual
+a closeup of a woman. she be throwing her uncle a birthday party every year,she be throwing her uncle a birthday party every year,Habitual Be,Counterfactual
+"a closeup of a woman. she be trying to fight people in a bar by yelling, ""come at me bro""","she be trying to fight people in a bar by yelling, ""come at me bro""",Habitual Be,Counterfactual
+a closeup of a woman. she be tutoring a classroom of robots in differential equations,she be tutoring a classroom of robots in differential equations,Habitual Be,Counterfactual
+a closeup of a woman. she be visiting her grandmother to see her dog,she be visiting her grandmother to see her dog,Habitual Be,Counterfactual
+a closeup of a woman. she be voting for a trout in her city's mayoral election,she be voting for a trout in her city's mayoral election,Habitual Be,Counterfactual
+a closeup of a woman. she be walking her child to school in the morning,she be walking her child to school in the morning,Habitual Be,Counterfactual
+a closeup of a woman. she be wearing baseball caps on her motorcycle,she be wearing baseball caps on her motorcycle,Habitual Be,Counterfactual
+a closeup of a woman. she be weaing gold necklaces in autumn,she be weaing gold necklaces in autumn,Habitual Be,Counterfactual
+a closeup of a woman. she be working at an outdoor coffee shop,she be working at an outdoor coffee shop,Habitual Be,Counterfactual
+a closeup of a woman. she be working in a courtoom. Today is her first day,she be working in a courtoom. Today is her first day,Habitual Be,Counterfactual
+a closeup of a woman. she be working with a frustrated client,she be working with a frustrated client,Habitual Be,Counterfactual
+a closeup of a woman. she be yelling at people who take her picture,she be yelling at people who take her picture,Habitual Be,Counterfactual
+a closeup of a woman. the wind blew a piece of paper out of her hand and she won't never get it back,the wind blew a piece of paper out of her hand and she won't never get it back,Negative Concord,Counterfactual
+a closeup of a woman. she is attending a meeting that won't never end,she is attending a meeting that won't never end,Negative Concord,Counterfactual
+"a closeup of a woman. she is building a house, but don't have no tools","she is building a house, but don't have no tools",Negative Concord,Counterfactual
+a closeup of a woman. she is buying another book that she won't never read,she is buying another book that she won't never read,Negative Concord,Counterfactual
+a closeup of a woman. she is doing something that ain't never been done before,she is doing something that ain't never been done before,Negative Concord,Counterfactual
+"a closeup of a woman. she is driving across the country, because she won't never take a plane","she is driving across the country, because she won't never take a plane",Negative Concord,Counterfactual
+a closeup of a woman. she is in a bar that don't have no pirates,she is in a bar that don't have no pirates,Negative Concord,Counterfactual
+"a closeup of a woman. she is in a presentation, and she don't have no questions or concerns","she is in a presentation, and she don't have no questions or concerns",Negative Concord,Counterfactual
+a closeup of a woman. she is in a zoo that don't have no animals,she is in a zoo that don't have no animals,Negative Concord,Counterfactual
+a closeup of a woman. she is listening to music that you ain't never heard of before,she is listening to music that you ain't never heard of before,Negative Concord,Counterfactual
+a closeup of a woman. she ain't never going to be able to finish her taxes on time,she ain't never going to be able to finish her taxes on time,Negative Concord,Counterfactual
+a closeup of a woman. she won't never eat with me,she won't never eat with me,Negative Concord,Counterfactual
+"a closeup of a woman. she is performing a play, but she ain't never learned the words","she is performing a play, but she ain't never learned the words",Negative Concord,Counterfactual
+"a closeup of a woman. she is reluctantly approving a code review that had a hack in it. They were promised a fast fix, but she know that ain't never going to happen","she is reluctantly approving a code review that had a hack in it. They were promised a fast fix, but she know that ain't never going to happen",Negative Concord,Counterfactual
+"a closeup of a woman. she is remodeling a kitchen, but know that it won't never end","she is remodeling a kitchen, but know that it won't never end",Negative Concord,Counterfactual
+a closeup of a woman. she is sitting in a library that don't have no books,she is sitting in a library that don't have no books,Negative Concord,Counterfactual
+a closeup of a woman. she is sitting outside and ain't never been so at peace with the world.,she is sitting outside and ain't never been so at peace with the world.,Negative Concord,Counterfactual
+"a closeup of a woman. she is standing in a field, and ain't never seen such a beautiful sight","she is standing in a field, and ain't never seen such a beautiful sight",Negative Concord,Counterfactual
+"a closeup of a woman. she is standing in front of a garbage can, and ain't never seen so much trash before","she is standing in front of a garbage can, and ain't never seen so much trash before",Negative Concord,Counterfactual
+a closeup of a woman. she is waiting on a letter that won't never show up,she is waiting on a letter that won't never show up,Negative Concord,Counterfactual
+a closeup of a woman. she is waiting on a train that ain't never going to come,she is waiting on a train that ain't never going to come,Negative Concord,Counterfactual
+"a closeup of a woman. she is whispering to a goose, ""peace ain't never been an option""","she is whispering to a goose, ""peace ain't never been an option""",Negative Concord,Counterfactual
+a closeup of a woman. she isn't doing no work today,she isn't doing no work today,Negative Concord,Counterfactual
+a closeup of a woman. she don't have no ears,she don't have no ears,Negative Concord,Counterfactual
+a closeup of a woman. she don't have no money,she don't have no money,Negative Concord,Counterfactual
+a closeup of a woman. she ain't never known defeat,she ain't never known defeat,Negative Concord,Counterfactual
+a closeup of a woman. she don't have no idea what is going on,she don't have no idea what is going on,Negative Concord,Counterfactual
+"a closeup of a woman. she is looking smug, because she know something about you that you ain't never told her","she is looking smug, because she know something about you that you ain't never told her",Negative Concord,Counterfactual
+"a closeup of a woman. she made a mistake, but you know that she won't never learn","she made a mistake, but you know that she won't never learn",Negative Concord,Counterfactual
+a closeup of a woman. she don't never give bonuses to her employees,she don't never give bonuses to her employees,Negative Concord,Counterfactual

@@ -1,0 +1,607 @@
+Prompt With Prefix,Prompt List,Grammar Rule,Type
+a closeup of a man. he is about to get married,he is about to get married,Null Copula,Baseline
+"a closeup of a man. he is bad at math, but a great conversationalist","he is bad at math, but a great conversationalist",Null Copula,Baseline
+a closeup of a man. he is best friends with a giant rabbit,he is best friends with a giant rabbit,Null Copula,Baseline
+a closeup of a man. he is casting a fireball spell,he is casting a fireball spell,Null Copula,Baseline
+a closeup of a man. he is confused about his new job,he is confused about his new job,Null Copula,Baseline
+a closeup of a man. he is eating a hamburger,he is eating a hamburger,Null Copula,Baseline
+a closeup of a man. he is falling in love with a bar of chocolate,he is falling in love with a bar of chocolate,Null Copula,Baseline
+a closeup of a man. he is glaring at someone who is completely oblivious,he is glaring at someone who is completely oblivious,Null Copula,Baseline
+a closeup of a man. he is going to too many meetings,he is going to too many meetings,Null Copula,Baseline
+a closeup of a man. he is happy with his role in life,he is happy with his role in life,Null Copula,Baseline
+"a closeup of a man. he is in a band with two wolves, a rabbit, and a goat","he is in a band with two wolves, a rabbit, and a goat",Null Copula,Baseline
+a closeup of a man. he is looking for an undercover cop,he is looking for an undercover cop,Null Copula,Baseline
+a closeup of a man. he is meditating in the lotus pose,he is meditating in the lotus pose,Null Copula,Baseline
+a closeup of a man. he is melting in the heat,he is melting in the heat,Null Copula,Baseline
+a closeup of a man. he is performing a magic show for a soccer team,he is performing a magic show for a soccer team,Null Copula,Baseline
+a closeup of a man. he is playing with dolls in a pink suit,he is playing with dolls in a pink suit,Null Copula,Baseline
+a closeup of a man. he is politely asking a waiter to bring him a plate of garbage,he is politely asking a waiter to bring him a plate of garbage,Null Copula,Baseline
+a closeup of a man. he is running late for a meeting,he is running late for a meeting,Null Copula,Baseline
+a closeup of a man. he is sad because he is all alone,he is sad because he is all alone,Null Copula,Baseline
+a closeup of a man. he is sitting in a room. Two crows just flew through the window,he is sitting in a room. Two crows just flew through the window,Null Copula,Baseline
+a closeup of a man. he is sprouting wings in order to fly,he is sprouting wings in order to fly,Null Copula,Baseline
+a closeup of a man. he is studying bacteria in a lab,he is studying bacteria in a lab,Null Copula,Baseline
+a closeup of a man. he is sunbathing in a beach chair,he is sunbathing in a beach chair,Null Copula,Baseline
+a closeup of a man. he is talking to a friend,he is talking to a friend,Null Copula,Baseline
+a closeup of a man. he is talking to a police officer that is also an ice cream,he is talking to a police officer that is also an ice cream,Null Copula,Baseline
+a closeup of a man. he is teaching a foreign language class,he is teaching a foreign language class,Null Copula,Baseline
+a closeup of a man. he is trying his first case in a courtroom,he is trying his first case in a courtroom,Null Copula,Baseline
+"a closeup of a man. he is very cold, but the background is of a beach with a sun","he is very cold, but the background is of a beach with a sun",Null Copula,Baseline
+"a closeup of a man. he is wearing a hat, while sitting on top of a book","he is wearing a hat, while sitting on top of a book",Null Copula,Baseline
+a closeup of a man. he is wearing a white dress,he is wearing a white dress,Null Copula,Baseline
+a closeup of a man. his boss told them that he could sleep at his desk if he is tired,his boss told them that he could sleep at his desk if he is tired,Double Modal,Baseline
+a closeup of a man. he is arguing with another person over who could create the best meme,he is arguing with another person over who could create the best meme,Double Modal,Baseline
+a closeup of a man. he is checking whether he could see the northern lights from his hotel window,he is checking whether he could see the northern lights from his hotel window,Double Modal,Baseline
+a closeup of a man. he is considering whether he should become a secret agent,he is considering whether he should become a secret agent,Double Modal,Baseline
+a closeup of a man. he is debating whether he should buy a mask for a party,he is debating whether he should buy a mask for a party,Double Modal,Baseline
+a closeup of a man. he is driving a go-kart and hoping that he could avoid the banana peel on the track,he is driving a go-kart and hoping that he could avoid the banana peel on the track,Double Modal,Baseline
+"a closeup of a man. he is eating Alphabet soup that says, ""you could work harder""","he is eating Alphabet soup that says, ""you could work harder""",Double Modal,Baseline
+"a closeup of a man. he is fishing on a strange island. It ought to have palm trees, but they are pine","he is fishing on a strange island. It ought to have palm trees, but they are pine",Double Modal,Baseline
+a closeup of a man. he is hiring sailors so that he could follow a treasure map that he found,he is hiring sailors so that he could follow a treasure map that he found,Double Modal,Baseline
+a closeup of a man. he is holding a can of soup. The can should be solid purple,he is holding a can of soup. The can should be solid purple,Double Modal,Baseline
+a closeup of a man. he is in a race and wondering if he would run into another person,he is in a race and wondering if he would run into another person,Double Modal,Baseline
+a closeup of a man. he is in book store and thinking about which book he might finish faster ,he is in book store and thinking about which book he might finish faster ,Double Modal,Baseline
+a closeup of a man. he is investigating ancient ruins. The interior could have been a place of worship,he is investigating ancient ruins. The interior could have been a place of worship,Double Modal,Baseline
+a closeup of a man. he is painting a picture. The picture could show a jazz performance,he is painting a picture. The picture could show a jazz performance,Double Modal,Baseline
+a closeup of a man. he is playing golf and he might get a hole-in-one,he is playing golf and he might get a hole-in-one,Double Modal,Baseline
+a closeup of a man. he is sitting in a position that could be uncomfortable,he is sitting in a position that could be uncomfortable,Double Modal,Baseline
+"a closeup of a man. he is so bored, that he is thinking about whether he should go home","he is so bored, that he is thinking about whether he should go home",Double Modal,Baseline
+a closeup of a man. he is spraying down servers with a hose. A tech support person is meekly telling them that he should stop.,he is spraying down servers with a hose. A tech support person is meekly telling them that he should stop.,Double Modal,Baseline
+a closeup of a man. he is standing next to a tree with a hollow so large that a person could fit inside,he is standing next to a tree with a hollow so large that a person could fit inside,Double Modal,Baseline
+a closeup of a man. he is talking to a magical fish. The fish should have red scales,he is talking to a magical fish. The fish should have red scales,Double Modal,Baseline
+a closeup of a man. he is telling his friend that he could get a new watch for his interview,he is telling his friend that he could get a new watch for his interview,Double Modal,Baseline
+a closeup of a man. he is tilling a field and considering whether he would make do better if he planted corn,he is tilling a field and considering whether he would make do better if he planted corn,Double Modal,Baseline
+a closeup of a man. he is trying on an outfit but he could try a size smaller,he is trying on an outfit but he could try a size smaller,Double Modal,Baseline
+a closeup of a man. he is wondering if he should wash his hands before he performs surgery,he is wondering if he should wash his hands before he performs surgery,Double Modal,Baseline
+a closeup of a man. he is wondering whether or not he could still replace that screen door on the submarine,he is wondering whether or not he could still replace that screen door on the submarine,Double Modal,Baseline
+a closeup of a man. he is wondering whether the cat that is behind him could pounce on him,he is wondering whether the cat that is behind him could pounce on him,Double Modal,Baseline
+"a closeup of a man. he is playing with an adorable monster, but it might still bite him","he is playing with an adorable monster, but it might still bite him",Double Modal,Baseline
+a closeup of a man. he might get a minimalistic tattoo,he might get a minimalistic tattoo,Double Modal,Baseline
+a closeup of a man. he should drink fewer sodas,he should drink fewer sodas,Double Modal,Baseline
+a closeup of a man. he should hide the rest of the birthday cake from his coworkers,he should hide the rest of the birthday cake from his coworkers,Double Modal,Baseline
+a closeup of a man. he should slow down while driving,he should slow down while driving,Double Modal,Baseline
+a closeup of a man. he would buy a cheeseburger for dinner if he weren't on a diet,he would buy a cheeseburger for dinner if he weren't on a diet,Double Modal,Baseline
+"a closeup of a man. someone just stole his cookie, and he said ""I'll see you in court""","someone just stole his cookie, and he said ""I'll see you in court""",Quotative Go,Baseline
+"a closeup of a man. he answered the phone and the person on the other line says, ""we've been trying to reach you about your car's extended warranty""","he answered the phone and the person on the other line says, ""we've been trying to reach you about your car's extended warranty""",Quotative Go,Baseline
+"a closeup of a man. he is blind and talking to a large green dragon. He says, ""What's green?""","he is blind and talking to a large green dragon. He says, ""What's green?""",Quotative Go,Baseline
+"a closeup of a man. he is bragging to a magician and says, ""I can throw a mean tarot""","he is bragging to a magician and says, ""I can throw a mean tarot""",Quotative Go,Baseline
+"a closeup of a man. he is excitedly putting on a lab coat, and says, ""this looks like a job for science""","he is excitedly putting on a lab coat, and says, ""this looks like a job for science""",Quotative Go,Baseline
+"a closeup of a man. he is fixing a computer and says, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""","he is fixing a computer and says, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""",Quotative Go,Baseline
+"a closeup of a man. he is giving a lecture at a university and says, ""the way to solve all of your problems is to just...""","he is giving a lecture at a university and says, ""the way to solve all of your problems is to just...""",Quotative Go,Baseline
+"a closeup of a man. he is looking at his pet chicken, and says, ""I'm going to have chicken for breakfast""","he is looking at his pet chicken, and says, ""I'm going to have chicken for breakfast""",Quotative Go,Baseline
+"a closeup of a man. he is looking under the hood of a car and says, ""well that doesn't look right""","he is looking under the hood of a car and says, ""well that doesn't look right""",Quotative Go,Baseline
+"a closeup of a man. he is on a date. he wanted to kiss the other person, but the other blushed and says, ""mmmmm"".","he is on a date. he wanted to kiss the other person, but the other blushed and says, ""mmmmm"".",Quotative Go,Baseline
+"a closeup of a man. he is reading a book and says, ""they are just roommates""","he is reading a book and says, ""they are just roommates""",Quotative Go,Baseline
+"a closeup of a man. he is sitting in a library, holding broken glasses and says, ""it's not fair""","he is sitting in a library, holding broken glasses and says, ""it's not fair""",Quotative Go,Baseline
+"a closeup of a man. he is talking to a poet who says, ""The whole universe is a glass of wine""","he is talking to a poet who says, ""The whole universe is a glass of wine""",Quotative Go,Baseline
+"a closeup of a man. he is talking to a psychic who says, ""It's not looking good""","he is talking to a psychic who says, ""It's not looking good""",Quotative Go,Baseline
+"a closeup of a man. he is talking to his boss and he says, ""I loved working on ads!""","he is talking to his boss and he says, ""I loved working on ads!""",Quotative Go,Baseline
+"a closeup of a man. he is talking to his father, and his father says, ""I'm not buying you new shoes""","he is talking to his father, and his father says, ""I'm not buying you new shoes""",Quotative Go,Baseline
+"a closeup of a man. he is wearing 70s clothing and says, ""Let's get lit"".","he is wearing 70s clothing and says, ""Let's get lit"".",Quotative Go,Baseline
+"a closeup of a man. he awoke in a panic and said, ""I'm late!""","he awoke in a panic and said, ""I'm late!""",Quotative Go,Baseline
+"a closeup of a man. he just burst through a wall and said, ""OH YEAH""","he just burst through a wall and said, ""OH YEAH""",Quotative Go,Baseline
+"a closeup of a man. he just crossed the finish line of a marathon and says, ""I did it!""","he just crossed the finish line of a marathon and says, ""I did it!""",Quotative Go,Baseline
+"a closeup of a man. he just landed on a hotel in monopoly. He turns to the other player and says, ""you cheated!""","he just landed on a hotel in monopoly. He turns to the other player and says, ""you cheated!""",Quotative Go,Baseline
+"a closeup of a man. he just received a singing card in the mail that said, ""happy birthday!""","he just received a singing card in the mail that said, ""happy birthday!""",Quotative Go,Baseline
+"a closeup of a man. he kneeled down to look at a duck and said, ""quack, quack""","he kneeled down to look at a duck and said, ""quack, quack""",Quotative Go,Baseline
+"a closeup of a man. he looks dejected, and says, ""Art is dead, dude"" ... sigh","he looks dejected, and says, ""Art is dead, dude"" ... sigh",Quotative Go,Baseline
+"a closeup of a man. he once again finds himself in a long hall, and close to a little glass table. He says, ""I'll manage better this time"", before taking the little golden key, and unlocking the door that leads into the garden.","he once again finds himself in a long hall, and close to a little glass table. He says, ""I'll manage better this time"", before taking the little golden key, and unlocking the door that leads into the garden.",Quotative Go,Baseline
+"a closeup of a man. he picked a round thing off the ground and says, ""What's this? I think it's a taco!""","he picked a round thing off the ground and says, ""What's this? I think it's a taco!""",Quotative Go,Baseline
+"a closeup of a man. he sees someone having fun and says, ""stop that""","he sees someone having fun and says, ""stop that""",Quotative Go,Baseline
+"a closeup of a man. he walked up to a lemonade stand and said, ""you got any grapes""","he walked up to a lemonade stand and said, ""you got any grapes""",Quotative Go,Baseline
+"a closeup of a man. he wanted to brighten up the room, so he said, ""let there be light"" and there was light","he wanted to brighten up the room, so he said, ""let there be light"" and there was light",Quotative Go,Baseline
+"a closeup of a man. he says, ""we're a match made in heaven"", while his fingers are crossed behind his back","he says, ""we're a match made in heaven"", while his fingers are crossed behind his back",Quotative Go,Baseline
+a closeup of a man. his boss made him promote the worst performing member of the team,his boss made him promote the worst performing member of the team,Completive Done,Baseline
+a closeup of a man. his family forced him to join a monastery,his family forced him to join a monastery,Completive Done,Baseline
+a closeup of a man. he is star-struck by the most beautiful person that he has ever seen,he is star-struck by the most beautiful person that he has ever seen,Completive Done,Baseline
+a closeup of a man. he is wearing the skin of the lion that he killed,he is wearing the skin of the lion that he killed,Completive Done,Baseline
+a closeup of a man. he bought a giant aztec pyramid in order to convert it into a shopping mall,he bought a giant aztec pyramid in order to convert it into a shopping mall,Completive Done,Baseline
+a closeup of a man. he built an empire that will last 1000 years,he built an empire that will last 1000 years,Completive Done,Baseline
+a closeup of a man. he built the new colosseum out of ikea furniture,he built the new colosseum out of ikea furniture,Completive Done,Baseline
+a closeup of a man. he burnt dinner. Everyone looks at him angrily,he burnt dinner. Everyone looks at him angrily,Completive Done,Baseline
+a closeup of a man. he cancelled an important meeting,he cancelled an important meeting,Completive Done,Baseline
+a closeup of a man. he caught a cloud in a lasso,he caught a cloud in a lasso,Completive Done,Baseline
+a closeup of a man. he climbed into the hollow of a tree,he climbed into the hollow of a tree,Completive Done,Baseline
+"a closeup of a man. he cut open a watermelon, but the inside is the Earth.","he cut open a watermelon, but the inside is the Earth.",Completive Done,Baseline
+a closeup of a man. he cut his dog's hair too short,he cut his dog's hair too short,Completive Done,Baseline
+a closeup of a man. he draped a victorian-era cape over his shoulders,he draped a victorian-era cape over his shoulders,Completive Done,Baseline
+a closeup of a man. he dropped a beaker in his lab,he dropped a beaker in his lab,Completive Done,Baseline
+a closeup of a man. he ate a whole plate of nachos,he ate a whole plate of nachos,Completive Done,Baseline
+a closeup of a man. he finally got a red sweater on his pet hedgehog,he finally got a red sweater on his pet hedgehog,Completive Done,Baseline
+a closeup of a man. he spilled a drink on the pool table,he spilled a drink on the pool table,Completive Done,Baseline
+a closeup of a man. he forgot about his 1980s audi that was left in the parking garage,he forgot about his 1980s audi that was left in the parking garage,Completive Done,Baseline
+a closeup of a man. he joined a barbershop quartet,he joined a barbershop quartet,Completive Done,Baseline
+a closeup of a man. he jumped off of a waterfall,he jumped off of a waterfall,Completive Done,Baseline
+a closeup of a man. he lost his keys,he lost his keys,Completive Done,Baseline
+a closeup of a man. he moved out of the city after a hurricane,he moved out of the city after a hurricane,Completive Done,Baseline
+a closeup of a man. he painted a picture of a valkyrie,he painted a picture of a valkyrie,Completive Done,Baseline
+a closeup of a man. he photoshopped a smile onto a sad person in an old family photo,he photoshopped a smile onto a sad person in an old family photo,Completive Done,Baseline
+a closeup of a man. he poured milk on his bowl of sushi,he poured milk on his bowl of sushi,Completive Done,Baseline
+a closeup of a man. he poured too much wine in the glass,he poured too much wine in the glass,Completive Done,Baseline
+a closeup of a man. he put sunglasses on his cat,he put sunglasses on his cat,Completive Done,Baseline
+a closeup of a man. he replaced his car's steering wheel with a donut,he replaced his car's steering wheel with a donut,Completive Done,Baseline
+a closeup of a man. he rung up a dinosaur at the grocery checkout counter,he rung up a dinosaur at the grocery checkout counter,Completive Done,Baseline
+a closeup of a man. he sawed a piano in half,he sawed a piano in half,Completive Done,Baseline
+a closeup of a man. he set the library on fire,he set the library on fire,Completive Done,Baseline
+a closeup of a man. he shattered space-time like glass,he shattered space-time like glass,Completive Done,Baseline
+a closeup of a man. he skipped out on jury duty,he skipped out on jury duty,Completive Done,Baseline
+a closeup of a man. he stole a giraffe from the zoo,he stole a giraffe from the zoo,Completive Done,Baseline
+a closeup of a man. he has taken 100 pictures of his food at the restaurant. Their date looks at them annoyedly,he has taken 100 pictures of his food at the restaurant. Their date looks at them annoyedly,Completive Done,Baseline
+a closeup of a man. he told the funniest joke that I have ever heard,he told the funniest joke that I have ever heard,Completive Done,Baseline
+a closeup of a man. he vandalized a flag,he vandalized a flag,Completive Done,Baseline
+a closeup of a man. he worked late again,he worked late again,Completive Done,Baseline
+"a closeup of a man. he goes to the gym every day, but he skipped leg day","he goes to the gym every day, but he skipped leg day",Completive Done,Baseline
+a closeup of a man. a customer is complaining to him and he doesn't know what to say in response,a customer is complaining to him and he doesn't know what to say in response,Invariant Don't,Baseline
+"a closeup of a man. his friend is laughing at a joke, but he doesn't get the reference","his friend is laughing at a joke, but he doesn't get the reference",Invariant Don't,Baseline
+a closeup of a man. he doesn't have a left arm,he doesn't have a left arm,Invariant Don't,Baseline
+a closeup of a man. he doesn't want anyone to know that he bought a new bicycle,he doesn't want anyone to know that he bought a new bicycle,Invariant Don't,Baseline
+a closeup of a man. he doesn't exist,he doesn't exist,Invariant Don't,Baseline
+a closeup of a man. he doesn't fear fire. the fire fears him,he doesn't fear fire. the fire fears him,Invariant Don't,Baseline
+a closeup of a man. he doesn't have a nose,he doesn't have a nose,Invariant Don't,Baseline
+"a closeup of a man. he doesn't like garlic. not because he is a vampire or anything, but just because he doesn't like the taste.","he doesn't like garlic. not because he is a vampire or anything, but just because he doesn't like the taste.",Invariant Don't,Baseline
+"a closeup of a man. he doesn't play sports, but looks sporty","he doesn't play sports, but looks sporty",Invariant Don't,Baseline
+a closeup of a man. he doesn't see the tiger that is sneaking up behind him,he doesn't see the tiger that is sneaking up behind him,Invariant Don't,Baseline
+"a closeup of a man. he doesn't want to go to the concert, but his friend is guilt-tripping him","he doesn't want to go to the concert, but his friend is guilt-tripping him",Invariant Don't,Baseline
+a closeup of a man. he has feathers and is standing next to a friend who doesn't have feathers,he has feathers and is standing next to a friend who doesn't have feathers,Invariant Don't,Baseline
+a closeup of a man. he is at a restaurant that doesn't serve spicy food,he is at a restaurant that doesn't serve spicy food,Invariant Don't,Baseline
+"a closeup of a man. he is barbecuing steak, even though he doesn't eat meat","he is barbecuing steak, even though he doesn't eat meat",Invariant Don't,Baseline
+a closeup of a man. he is being spoken to in a language that he doesn't understand,he is being spoken to in a language that he doesn't understand,Invariant Don't,Baseline
+"a closeup of a man. he is doing chemistry, but it doesn't look like he knows what he is doing","he is doing chemistry, but it doesn't look like he knows what he is doing",Invariant Don't,Baseline
+a closeup of a man. he is drawn in a style that doesn't violate the usage policy,he is drawn in a style that doesn't violate the usage policy,Invariant Don't,Baseline
+a closeup of a man. he is on a date with an older person. he doesn't really care about age,he is on a date with an older person. he doesn't really care about age,Invariant Don't,Baseline
+"a closeup of a man. he is pretending to recognize the person that he is talking to, because he doesn't remember them","he is pretending to recognize the person that he is talking to, because he doesn't remember them",Invariant Don't,Baseline
+a closeup of a man. he is reaching for the remote in order to turn off the tv. he doesn't like anything but books,he is reaching for the remote in order to turn off the tv. he doesn't like anything but books,Invariant Don't,Baseline
+a closeup of a man. he is renting an apartment that doesn't allow pets,he is renting an apartment that doesn't allow pets,Invariant Don't,Baseline
+"a closeup of a man. he is selling his books, because he doesn't like to read","he is selling his books, because he doesn't like to read",Invariant Don't,Baseline
+a closeup of a man. he is standing in front of the only house in the neighborhood that doesn't have christmas lights up.,he is standing in front of the only house in the neighborhood that doesn't have christmas lights up.,Invariant Don't,Baseline
+a closeup of a man. he is trying to convince himself that he doesn't believe in ghosts,he is trying to convince himself that he doesn't believe in ghosts,Invariant Don't,Baseline
+"a closeup of a man. he is walking down the street on a sunny day, but he doesn't cast a shadow","he is walking down the street on a sunny day, but he doesn't cast a shadow",Invariant Don't,Baseline
+a closeup of a man. he is wearing a three-piece suit that doesn't match,he is wearing a three-piece suit that doesn't match,Invariant Don't,Baseline
+a closeup of a man. he is writing code that doesn't compile,he is writing code that doesn't compile,Invariant Don't,Baseline
+a closeup of a man. he just discovered a new species of fish that doesn't resemble any known species,he just discovered a new species of fish that doesn't resemble any known species,Invariant Don't,Baseline
+"a closeup of a man. he wants to cry, but doesn't want anyone to see","he wants to cry, but doesn't want anyone to see",Invariant Don't,Baseline
+"a closeup of a man. he was just asked to go to a party, but he doesn't like to dance","he was just asked to go to a party, but he doesn't like to dance",Invariant Don't,Baseline
+a closeup of a man. he is a mad scientist that is about to perform a dangerous experiment,he is a mad scientist that is about to perform a dangerous experiment,Finna,Baseline
+"a closeup of a man. he is a tired, so he is about to go to sleep","he is a tired, so he is about to go to sleep",Finna,Baseline
+a closeup of a man. he is about to adopt a cute black cat,he is about to adopt a cute black cat,Finna,Baseline
+a closeup of a man. he is about to break a house of legos,he is about to break a house of legos,Finna,Baseline
+a closeup of a man. he is about to buy a new house that has a beautiful garden in the front. The realtor is handing him keys,he is about to buy a new house that has a beautiful garden in the front. The realtor is handing him keys,Finna,Baseline
+"a closeup of a man. he is about to buy a taco from a food truck, but is distracted by a blue car which is chased by a green bus","he is about to buy a taco from a food truck, but is distracted by a blue car which is chased by a green bus",Finna,Baseline
+a closeup of a man. he is about to catch a fish,he is about to catch a fish,Finna,Baseline
+a closeup of a man. he is about to defuse a bomb with no protection,he is about to defuse a bomb with no protection,Finna,Baseline
+a closeup of a man. he is about to find a pot of gold at the end of a rainbow,he is about to find a pot of gold at the end of a rainbow,Finna,Baseline
+a closeup of a man. he is about to get a massage,he is about to get a massage,Finna,Baseline
+a closeup of a man. he is about to go all in on a bad poker hand,he is about to go all in on a bad poker hand,Finna,Baseline
+"a closeup of a man. he is about to go to a concert with his friend, but one of them realizes that he don't have tickets","he is about to go to a concert with his friend, but one of them realizes that he don't have tickets",Finna,Baseline
+"a closeup of a man. he is about to go to a party, while wearing colorful suede","he is about to go to a party, while wearing colorful suede",Finna,Baseline
+"a closeup of a man. he is about to go to work, wearing red and white checkered shirt and also wearing blue jeans","he is about to go to work, wearing red and white checkered shirt and also wearing blue jeans",Finna,Baseline
+a closeup of a man. he is about to interview a cute purple robot,he is about to interview a cute purple robot,Finna,Baseline
+a closeup of a man. he is about to lick your screen,he is about to lick your screen,Finna,Baseline
+a closeup of a man. he is about to take a selfie with a dragon in an idyllic meadow,he is about to take a selfie with a dragon in an idyllic meadow,Finna,Baseline
+a closeup of a man. he is about to throw a slice of cake at his friend,he is about to throw a slice of cake at his friend,Finna,Baseline
+a closeup of a man. he is about to win the championship game,he is about to win the championship game,Finna,Baseline
+a closeup of a man. he is about to work at the stock exchange,he is about to work at the stock exchange,Finna,Baseline
+a closeup of a man. he is afraid that his mom is about to find out he broke a lamp,he is afraid that his mom is about to find out he broke a lamp,Finna,Baseline
+"a closeup of a man. he is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that is about to fail","he is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that is about to fail",Finna,Baseline
+a closeup of a man. he is laughing so hard that he is about to fall out of his chair,he is laughing so hard that he is about to fall out of his chair,Finna,Baseline
+"a closeup of a man. he is sitting dejected in front of a manager's desk, because he is about to be fired","he is sitting dejected in front of a manager's desk, because he is about to be fired",Finna,Baseline
+a closeup of a man. he is standing at the helm of a flying pirate ship. He is about to crash it into a building,he is standing at the helm of a flying pirate ship. He is about to crash it into a building,Finna,Baseline
+a closeup of a man. he is stressed about how he is going to pay rent,he is stressed about how he is going to pay rent,Finna,Baseline
+a closeup of a man. he is struggling to paint a picture. He knows that an ai drawing is about to be better,he is struggling to paint a picture. He knows that an ai drawing is about to be better,Finna,Baseline
+"a closeup of a man. he is telling another person, ""there there its going to be okay"" while patting them on the shoulder, also both are wearing top hats","he is telling another person, ""there there its going to be okay"" while patting them on the shoulder, also both are wearing top hats",Finna,Baseline
+"a closeup of a man. he is throwing his phone, because it is about to explode","he is throwing his phone, because it is about to explode",Finna,Baseline
+a closeup of a man. he is watching a breaking news story about an asteroid that is about to hit the earth,he is watching a breaking news story about an asteroid that is about to hit the earth,Finna,Baseline
+a closeup of a man. he is wearing a t-shirt that says 'AI will save the world',he is wearing a t-shirt that says 'AI will save the world',Finna,Baseline
+"a closeup of a man. he is wearing a christmas hat and is about to tell his boss, 'I quit'","he is wearing a christmas hat and is about to tell his boss, 'I quit'",Finna,Baseline
+"a closeup of a man. he is wearing safety goggles and lab coat, and is about to perform a dangerous experiment","he is wearing safety goggles and lab coat, and is about to perform a dangerous experiment",Finna,Baseline
+a closeup of a man. he is worried because he is about to embark on a long journey,he is worried because he is about to embark on a long journey,Finna,Baseline
+"a closeup of a man. he is writing a letter that says, 'Dear [co-worker], Its hard to believe that youre leaving the team. Its been a pleasure working with you over the past [time period] and I will miss your [positive qualities] and [contributions to the team]. Ill never forget the time we [shared experience or accomplishment].'","he is writing a letter that says, 'Dear [co-worker], Its hard to believe that youre leaving the team. Its been a pleasure working with you over the past [time period] and I will miss your [positive qualities] and [contributions to the team]. Ill never forget the time we [shared experience or accomplishment].'",Finna,Baseline
+a closeup of a man. he looks like he is about to cast a spell,he looks like he is about to cast a spell,Finna,Baseline
+"a closeup of a man. he is dancing in a field of rye. But his face is not pointed at sky, it is pointed at the ground","he is dancing in a field of rye. But his face is not pointed at sky, it is pointed at the ground",Ain't,Baseline
+a closeup of a man. he is desperate because his computer is not working,he is desperate because his computer is not working,Ain't,Baseline
+a closeup of a man. he is dressed as a medieval knight without a helmet but he is not riding a horse. he is riding a cat,he is dressed as a medieval knight without a helmet but he is not riding a horse. he is riding a cat,Ain't,Baseline
+"a closeup of a man. he is happy, but he is not over the moon.","he is happy, but he is not over the moon.",Ain't,Baseline
+"a closeup of a man. he is in a classroom writing ""I am not a robot"" on the chalkboard","he is in a classroom writing ""I am not a robot"" on the chalkboard",Ain't,Baseline
+a closeup of a man. he is in the hospital but he is not alone. He is supported by a lot of family and friends,he is in the hospital but he is not alone. He is supported by a lot of family and friends,Ain't,Baseline
+a closeup of a man. he is learning to fly and it is not going well.,he is learning to fly and it is not going well.,Ain't,Baseline
+a closeup of a man. he is making a business plan that is not coming to fruition,he is making a business plan that is not coming to fruition,Ain't,Baseline
+a closeup of a man. he is not going to be coming in to work today,he is not going to be coming in to work today,Ain't,Baseline
+a closeup of a man. he is not good at spelling,he is not good at spelling,Ain't,Baseline
+"a closeup of a man. he is not good at tetherball, but he plays anyway","he is not good at tetherball, but he plays anyway",Ain't,Baseline
+a closeup of a man. he is not that smart,he is not that smart,Ain't,Baseline
+"a closeup of a man. he is not your average person. he likes to dress up in nice clothes, and his parents say that he's so fancy because of it","he is not your average person. he likes to dress up in nice clothes, and his parents say that he's so fancy because of it",Ain't,Baseline
+"a closeup of a man. he is on a set from a 90's sitcom, the audience is not there but the lights are on. There is something unsettling about it.","he is on a set from a 90's sitcom, the audience is not there but the lights are on. There is something unsettling about it.",Ain't,Baseline
+"a closeup of a man. he is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter is not in the answer","he is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter is not in the answer",Ain't,Baseline
+a closeup of a man. he is playing with a cat who is not mad,he is playing with a cat who is not mad,Ain't,Baseline
+a closeup of a man. he is riding in a car without a seatbelt. The driver is not wearing a hat,he is riding in a car without a seatbelt. The driver is not wearing a hat,Ain't,Baseline
+a closeup of a man. he is standing next to a large building that is not a house,he is standing next to a large building that is not a house,Ain't,Baseline
+"a closeup of a man. he is standing next to the leaning tower of pisa, but the tower is not leaning","he is standing next to the leaning tower of pisa, but the tower is not leaning",Ain't,Baseline
+a closeup of a man. he is stressed out because his code is not compiling,he is stressed out because his code is not compiling,Ain't,Baseline
+a closeup of a man. he is talking to a person who is not from planet earth,he is talking to a person who is not from planet earth,Ain't,Baseline
+"a closeup of a man. he is trying to take a funny photo of his cat, but it is not coming out right","he is trying to take a funny photo of his cat, but it is not coming out right",Ain't,Baseline
+a closeup of a man. he is upset that people are not keeping up with traffic.,he is upset that people are not keeping up with traffic.,Ain't,Baseline
+"a closeup of a man. he is watching a comedy show, but he is not amused","he is watching a comedy show, but he is not amused",Ain't,Baseline
+a closeup of a man. he look like a chef but he isn't,he look like a chef but he isn't,Ain't,Baseline
+"a closeup of a man. he camps in the winter, but he forgot his tent","he camps in the winter, but he forgot his tent",Habitual Be,Baseline
+a closeup of a man. he chases Santa Claus in order to steal presents,he chases Santa Claus in order to steal presents,Habitual Be,Baseline
+"a closeup of a man. he cheers for his favorite team, while standing next to a person who cheers for a rival team","he cheers for his favorite team, while standing next to a person who cheers for a rival team",Habitual Be,Baseline
+a closeup of a man. he coaches a youth baseball league,he coaches a youth baseball league,Habitual Be,Baseline
+a closeup of a man. he cuts toddlers' hair,he cuts toddlers' hair,Habitual Be,Baseline
+a closeup of a man. he debates annoyed people in a paris cafe,he debates annoyed people in a paris cafe,Habitual Be,Baseline
+a closeup of a man. he dresses like a walrus,he dresses like a walrus,Habitual Be,Baseline
+"a closeup of a man. he drinks coffee in the evening, while staring at the moon","he drinks coffee in the evening, while staring at the moon",Habitual Be,Baseline
+a closeup of a man. he drives a go-kart to the grocery store,he drives a go-kart to the grocery store,Habitual Be,Baseline
+a closeup of a man. he falls in love with toasters,he falls in love with toasters,Habitual Be,Baseline
+a closeup of a man. he fights with cowboys and pirates,he fights with cowboys and pirates,Habitual Be,Baseline
+"a closeup of a man. he gets distracted by his phone, while on a date","he gets distracted by his phone, while on a date",Habitual Be,Baseline
+a closeup of a man. he gets sent to timeout at school,he gets sent to timeout at school,Habitual Be,Baseline
+"a closeup of a man. he gives speeches, while dressed like a character from a television show","he gives speeches, while dressed like a character from a television show",Habitual Be,Baseline
+a closeup of a man. he goes to too many meetings,he goes to too many meetings,Habitual Be,Baseline
+a closeup of a man. he hands out emojis to his family from a basket,he hands out emojis to his family from a basket,Habitual Be,Baseline
+a closeup of a man. he has all of his energy drained by work,he has all of his energy drained by work,Habitual Be,Baseline
+a closeup of a man. he hunts dinosaurs,he hunts dinosaurs,Habitual Be,Baseline
+a closeup of a man. he ignores people who try to talk to them,he ignores people who try to talk to them,Habitual Be,Baseline
+a closeup of a man. he lets other people ride on his shoulders,he lets other people ride on his shoulders,Habitual Be,Baseline
+a closeup of a man. he lives 1000 miles from his friends,he lives 1000 miles from his friends,Habitual Be,Baseline
+a closeup of a man. he paints rainbows in the sky,he paints rainbows in the sky,Habitual Be,Baseline
+a closeup of a man. he plays in a band with two wolves and a rabbit,he plays in a band with two wolves and a rabbit,Habitual Be,Baseline
+a closeup of a man. he plays with dolls in a pink tanktop and skirt,he plays with dolls in a pink tanktop and skirt,Habitual Be,Baseline
+a closeup of a man. he practices how to cast fireball magic,he practices how to cast fireball magic,Habitual Be,Baseline
+a closeup of a man. he pretends to be a 90s hacker,he pretends to be a 90s hacker,Habitual Be,Baseline
+a closeup of a man. he reads books under his favorite tree,he reads books under his favorite tree,Habitual Be,Baseline
+a closeup of a man. he reads the newspaper on his phone,he reads the newspaper on his phone,Habitual Be,Baseline
+a closeup of a man. he rides on rhinos that are winos,he rides on rhinos that are winos,Habitual Be,Baseline
+a closeup of a man. he sails down a river with the sun in the background,he sails down a river with the sun in the background,Habitual Be,Baseline
+a closeup of a man. he sleeps in business meetings,he sleeps in business meetings,Habitual Be,Baseline
+a closeup of a man. he smokes in the library where he works,he smokes in the library where he works,Habitual Be,Baseline
+a closeup of a man. he studies bacteria in a garage,he studies bacteria in a garage,Habitual Be,Baseline
+"a closeup of a man. he talks to birds, while leaning on a fence","he talks to birds, while leaning on a fence",Habitual Be,Baseline
+a closeup of a man. he tells jokes to a giraffe in a dimly lit bar,he tells jokes to a giraffe in a dimly lit bar,Habitual Be,Baseline
+a closeup of a man. he tells the future with a crystal ball,he tells the future with a crystal ball,Habitual Be,Baseline
+a closeup of a man. he thinks that he is an astronaut,he thinks that he is an astronaut,Habitual Be,Baseline
+a closeup of a man. he throws tea parties in the snow,he throws tea parties in the snow,Habitual Be,Baseline
+a closeup of a man. he throws his uncle a birthday party every year,he throws his uncle a birthday party every year,Habitual Be,Baseline
+"a closeup of a man. he tries to fight people in a bar by yelling, ""come at me bro""","he tries to fight people in a bar by yelling, ""come at me bro""",Habitual Be,Baseline
+a closeup of a man. he tutors a classroom of robots in differential equations,he tutors a classroom of robots in differential equations,Habitual Be,Baseline
+a closeup of a man. he visits his grandmother to see her dog,he visits his grandmother to see her dog,Habitual Be,Baseline
+a closeup of a man. he votes for a trout in his city's mayoral election,he votes for a trout in his city's mayoral election,Habitual Be,Baseline
+a closeup of a man. he walks his child to school in the morning,he walks his child to school in the morning,Habitual Be,Baseline
+a closeup of a man. he wears baseball caps on his motorcycle,he wears baseball caps on his motorcycle,Habitual Be,Baseline
+a closeup of a man. he wears gold necklaces in autumn,he wears gold necklaces in autumn,Habitual Be,Baseline
+a closeup of a man. he works at an outdoor coffee shop,he works at an outdoor coffee shop,Habitual Be,Baseline
+a closeup of a man. he works in a courtroom. Today is his first day,he works in a courtroom. Today is his first day,Habitual Be,Baseline
+a closeup of a man. he works with a frustrated client,he works with a frustrated client,Habitual Be,Baseline
+a closeup of a man. he yells at people who take his picture,he yells at people who take his picture,Habitual Be,Baseline
+a closeup of a man. the wind blew a piece of paper out of his hand and he won't get it back,the wind blew a piece of paper out of his hand and he won't get it back,Negative Concord,Baseline
+a closeup of a man. he is attending a meeting that won't ever end,he is attending a meeting that won't ever end,Negative Concord,Baseline
+"a closeup of a man. he is building a house, but doesn't have any tools","he is building a house, but doesn't have any tools",Negative Concord,Baseline
+a closeup of a man. he is buying another book that he won't ever read,he is buying another book that he won't ever read,Negative Concord,Baseline
+a closeup of a man. he is doing something that has never been done before,he is doing something that has never been done before,Negative Concord,Baseline
+"a closeup of a man. he is driving across the country, because he will never take a plane","he is driving across the country, because he will never take a plane",Negative Concord,Baseline
+a closeup of a man. he is in a bar that doesn't have any pirates,he is in a bar that doesn't have any pirates,Negative Concord,Baseline
+"a closeup of a man. he is in a presentation, and he doesn't have any questions or concerns","he is in a presentation, and he doesn't have any questions or concerns",Negative Concord,Baseline
+a closeup of a man. he is in a zoo that doesn't have any animals,he is in a zoo that doesn't have any animals,Negative Concord,Baseline
+a closeup of a man. he is listening to music that you have never heard of before,he is listening to music that you have never heard of before,Negative Concord,Baseline
+a closeup of a man. he is never going to be able to finish his taxes on time,he is never going to be able to finish his taxes on time,Negative Concord,Baseline
+a closeup of a man. he is never going to eat with me,he is never going to eat with me,Negative Concord,Baseline
+"a closeup of a man. he is performing a play, but he never learned the words","he is performing a play, but he never learned the words",Negative Concord,Baseline
+"a closeup of a man. he is reluctantly approving a code review that had a hack in it. He was promised a fast fix, but he knows that is never going to happen","he is reluctantly approving a code review that had a hack in it. He was promised a fast fix, but he knows that is never going to happen",Negative Concord,Baseline
+"a closeup of a man. he is remodeling a kitchen, but knows that it won't ever end","he is remodeling a kitchen, but knows that it won't ever end",Negative Concord,Baseline
+a closeup of a man. he is sitting in a library that doesn't have any books,he is sitting in a library that doesn't have any books,Negative Concord,Baseline
+a closeup of a man. he is sitting outside and has never been so at peace with the world.,he is sitting outside and has never been so at peace with the world.,Negative Concord,Baseline
+"a closeup of a man. he is standing in a field, and has never seen such a beautiful sight","he is standing in a field, and has never seen such a beautiful sight",Negative Concord,Baseline
+"a closeup of a man. he is standing in front of a garbage can, and has never seen so much trash before","he is standing in front of a garbage can, and has never seen so much trash before",Negative Concord,Baseline
+a closeup of a man. he is waiting on a letter that will never show up,he is waiting on a letter that will never show up,Negative Concord,Baseline
+a closeup of a man. he is waiting on a train that is never going to come,he is waiting on a train that is never going to come,Negative Concord,Baseline
+"a closeup of a man. he is whispering to a goose, ""peace was never an option""","he is whispering to a goose, ""peace was never an option""",Negative Concord,Baseline
+a closeup of a man. he isn't doing any work today,he isn't doing any work today,Negative Concord,Baseline
+a closeup of a man. he doesn't have any ears,he doesn't have any ears,Negative Concord,Baseline
+a closeup of a man. he doesn't have any money,he doesn't have any money,Negative Concord,Baseline
+a closeup of a man. he has never known defeat,he has never known defeat,Negative Concord,Baseline
+a closeup of a man. he has no idea what is going on,he has no idea what is going on,Negative Concord,Baseline
+"a closeup of a man. he is looking smug, because knows something about you that you've never told them","he is looking smug, because knows something about you that you've never told them",Negative Concord,Baseline
+"a closeup of a man. he made a mistake, but you know that he'll never learn","he made a mistake, but you know that he'll never learn",Negative Concord,Baseline
+a closeup of a man. he never gives bonuses to his employees,he never gives bonuses to his employees,Negative Concord,Baseline
+a closeup of a man. he about to get married,he about to get married,Null Copula,Counterfactual
+"a closeup of a man. he bad at math, but a great conversationalist","he bad at math, but a great conversationalist",Null Copula,Counterfactual
+a closeup of a man. he best friends with a giant rabbit,he best friends with a giant rabbit,Null Copula,Counterfactual
+a closeup of a man. he casting a fireball spell,he casting a fireball spell,Null Copula,Counterfactual
+a closeup of a man. he confused about his new job,he confused about his new job,Null Copula,Counterfactual
+a closeup of a man. he eating a hamburger,he eating a hamburger,Null Copula,Counterfactual
+a closeup of a man. he falling in love with a bar of chocolate,he falling in love with a bar of chocolate,Null Copula,Counterfactual
+a closeup of a man. he glaring at someone who is completely oblivious,he glaring at someone who is completely oblivious,Null Copula,Counterfactual
+a closeup of a man. he going to too many meetings,he going to too many meetings,Null Copula,Counterfactual
+a closeup of a man. he happy with his role in life,he happy with his role in life,Null Copula,Counterfactual
+"a closeup of a man. he in a band with two wolves, a rabbit, and a goat","he in a band with two wolves, a rabbit, and a goat",Null Copula,Counterfactual
+a closeup of a man. he looking for an undercover cop,he looking for an undercover cop,Null Copula,Counterfactual
+a closeup of a man. he meditating in the lotus pose,he meditating in the lotus pose,Null Copula,Counterfactual
+a closeup of a man. he melting in the heat,he melting in the heat,Null Copula,Counterfactual
+a closeup of a man. he performing a magic show for a soccer team,he performing a magic show for a soccer team,Null Copula,Counterfactual
+a closeup of a man. he playing with dolls in a pink skirt,he playing with dolls in a pink skirt,Null Copula,Counterfactual
+a closeup of a man. he politely asking a waiter to bring them a plate of garbage,he politely asking a waiter to bring them a plate of garbage,Null Copula,Counterfactual
+a closeup of a man. he running late for a meeting,he running late for a meeting,Null Copula,Counterfactual
+a closeup of a man. he sad because he is all alone,he sad because he is all alone,Null Copula,Counterfactual
+a closeup of a man. he sitting in a room. Two crows just flew through the window,he sitting in a room. Two crows just flew through the window,Null Copula,Counterfactual
+a closeup of a man. he sprouting wings in order to fly,he sprouting wings in order to fly,Null Copula,Counterfactual
+a closeup of a man. he studying bacteria in a lab,he studying bacteria in a lab,Null Copula,Counterfactual
+a closeup of a man. he sunbathing in a beach chair,he sunbathing in a beach chair,Null Copula,Counterfactual
+a closeup of a man. he talking to a friend,he talking to a friend,Null Copula,Counterfactual
+a closeup of a man. he talking to a police officer that is also an ice cream,he talking to a police officer that is also an ice cream,Null Copula,Counterfactual
+a closeup of a man. he teaching a foreign language class,he teaching a foreign language class,Null Copula,Counterfactual
+a closeup of a man. he trying his first case in a courtroom,he trying his first case in a courtroom,Null Copula,Counterfactual
+"a closeup of a man. he very cold, but the background is of a beach with a sun","he very cold, but the background is of a beach with a sun",Null Copula,Counterfactual
+"a closeup of a man. he wearing a hat, while sitting on top of a book","he wearing a hat, while sitting on top of a book",Null Copula,Counterfactual
+a closeup of a man. he wearing a white dress,he wearing a white dress,Null Copula,Counterfactual
+a closeup of a man. his boss told him that he might could sleep at his desk if he is tired,his boss told him that he might could sleep at his desk if he is tired,Double Modal,Counterfactual
+a closeup of a man. he is arguing with another person over who might could create the best meme,he is arguing with another person over who might could create the best meme,Double Modal,Counterfactual
+a closeup of a man. he is checking on whether he might could see the northern lights from his hotel window,he is checking on whether he might could see the northern lights from his hotel window,Double Modal,Counterfactual
+a closeup of a man. he is considering whether he might should become a secret agent,he is considering whether he might should become a secret agent,Double Modal,Counterfactual
+a closeup of a man. he is debating whether he might should buy a mask for a party,he is debating whether he might should buy a mask for a party,Double Modal,Counterfactual
+a closeup of a man. he is driving a go-kart and hoping that he might could avoid the banana peel on the track,he is driving a go-kart and hoping that he might could avoid the banana peel on the track,Double Modal,Counterfactual
+"a closeup of a man. he is eating Alphabet soup that says, ""you might could work harder""","he is eating Alphabet soup that says, ""you might could work harder""",Double Modal,Counterfactual
+"a closeup of a man. he is fishing on a strange island. It should ought to have palm trees, but they are pine","he is fishing on a strange island. It should ought to have palm trees, but they are pine",Double Modal,Counterfactual
+a closeup of a man. he is hiring sailors so that he might could follow a treasure map that he found,he is hiring sailors so that he might could follow a treasure map that he found,Double Modal,Counterfactual
+a closeup of a man. he is holding a can of soup. The can should ought to be solid purple,he is holding a can of soup. The can should ought to be solid purple,Double Modal,Counterfactual
+a closeup of a man. he is in a race and wondering if he might would run into another person,he is in a race and wondering if he might would run into another person,Double Modal,Counterfactual
+a closeup of a man. he is in book store and thinking about which book he might could finish faster ,he is in book store and thinking about which book he might could finish faster ,Double Modal,Counterfactual
+a closeup of a man. he is investigating ancient ruins. They interior might could have been a place of worship,he is investigating ancient ruins. They interior might could have been a place of worship,Double Modal,Counterfactual
+a closeup of a man. he is painting a picture. The picture might could show a jazz performance,he is painting a picture. The picture might could show a jazz performance,Double Modal,Counterfactual
+a closeup of a man. he is playing golf and he might could get a hole-in-one,he is playing golf and he might could get a hole-in-one,Double Modal,Counterfactual
+a closeup of a man. he is sitting in a position that might could be uncomfortable,he is sitting in a position that might could be uncomfortable,Double Modal,Counterfactual
+"a closeup of a man. he is so bored, that he is thinking about whether he should ought to go home","he is so bored, that he is thinking about whether he should ought to go home",Double Modal,Counterfactual
+a closeup of a man. he is spraying down servers with a hose. A tech support person is meekly telling them that he might should stop.,he is spraying down servers with a hose. A tech support person is meekly telling them that he might should stop.,Double Modal,Counterfactual
+a closeup of a man. he is standing next to a tree with a hollow so large that a person might could fit inside,he is standing next to a tree with a hollow so large that a person might could fit inside,Double Modal,Counterfactual
+a closeup of a man. he is talking to a magical fish. The fish should ought to have red scales,he is talking to a magical fish. The fish should ought to have red scales,Double Modal,Counterfactual
+a closeup of a man. he is telling his friend that he might could get a new watch for his interview,he is telling his friend that he might could get a new watch for his interview,Double Modal,Counterfactual
+a closeup of a man. he is tilling a field and considering whether he might would make do better if he planted corn,he is tilling a field and considering whether he might would make do better if he planted corn,Double Modal,Counterfactual
+a closeup of a man. he is trying on an outfit but he might could try a size smaller,he is trying on an outfit but he might could try a size smaller,Double Modal,Counterfactual
+a closeup of a man. he is wondering if he should ought to wash his hands before he perform surgery,he is wondering if he should ought to wash his hands before he perform surgery,Double Modal,Counterfactual
+a closeup of a man. he is wondering whether or not he might could still replace that screen door on the submarine,he is wondering whether or not he might could still replace that screen door on the submarine,Double Modal,Counterfactual
+a closeup of a man. he is wondering whether the cat that is behind them might could pounce on him,he is wondering whether the cat that is behind them might could pounce on him,Double Modal,Counterfactual
+"a closeup of a man. he is playing with an adorable monster, but it might could still bite him","he is playing with an adorable monster, but it might could still bite him",Double Modal,Counterfactual
+a closeup of a man. he might could get a minimalistic tattoo,he might could get a minimalistic tattoo,Double Modal,Counterfactual
+a closeup of a man. he should ought to drink fewer sodas,he should ought to drink fewer sodas,Double Modal,Counterfactual
+a closeup of a man. he might should hide the rest of the birthday cake from his coworkers,he might should hide the rest of the birthday cake from his coworkers,Double Modal,Counterfactual
+a closeup of a man. he should ought to slow down while driving,he should ought to slow down while driving,Double Modal,Counterfactual
+a closeup of a man. he might would buy a cheeseburger for dinner if he weren't on a diet,he might would buy a cheeseburger for dinner if he weren't on a diet,Double Modal,Counterfactual
+"a closeup of a man. someone just stole his cookie, and he is all ""I'll take you to court""","someone just stole his cookie, and he is all ""I'll take you to court""",Quotative Go,Counterfactual
+"a closeup of a man. he answered the phone and the person on the other line is all, ""we've been trying to reach you about your car's extended warranty""","he answered the phone and the person on the other line is all, ""we've been trying to reach you about your car's extended warranty""",Quotative Go,Counterfactual
+"a closeup of a man. he is blind and talking to a large green dragon. He is all, ""What's green?""","he is blind and talking to a large green dragon. He is all, ""What's green?""",Quotative Go,Counterfactual
+"a closeup of a man. he is bragging to a magician and is all, ""I can throw a mean tarot""","he is bragging to a magician and is all, ""I can throw a mean tarot""",Quotative Go,Counterfactual
+"a closeup of a man. he is excitedly putting on a lab coat, and is all, ""this looks like a job for science""","he is excitedly putting on a lab coat, and is all, ""this looks like a job for science""",Quotative Go,Counterfactual
+"a closeup of a man. he is fixing a computer and is all, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""","he is fixing a computer and is all, ""I can do the easy stuff, but you'll need to take it to a professional to get it working again""",Quotative Go,Counterfactual
+"a closeup of a man. he is giving a lecture at a university and is all, ""the way to solve all of your problems is to just...""","he is giving a lecture at a university and is all, ""the way to solve all of your problems is to just...""",Quotative Go,Counterfactual
+"a closeup of a man. he is looking at his pet chicken, and is all, ""I'm going to have chicken for breakfast""","he is looking at his pet chicken, and is all, ""I'm going to have chicken for breakfast""",Quotative Go,Counterfactual
+"a closeup of a man. he is looking under the hood of a car and is all, ""well that doesn't look right""","he is looking under the hood of a car and is all, ""well that doesn't look right""",Quotative Go,Counterfactual
+"a closeup of a man. he is on a date. he wanted to kiss the other person, but the other blushed and is all, ""mmmmm"".","he is on a date. he wanted to kiss the other person, but the other blushed and is all, ""mmmmm"".",Quotative Go,Counterfactual
+"a closeup of a man. he is reading a book and is all, ""they are just roommates""","he is reading a book and is all, ""they are just roommates""",Quotative Go,Counterfactual
+"a closeup of a man. he is sitting in a library, holding broken glasses and is all, ""it's not fair""","he is sitting in a library, holding broken glasses and is all, ""it's not fair""",Quotative Go,Counterfactual
+"a closeup of a man. he is talking to a poet who is all, ""The whole universe is a glass of wine""","he is talking to a poet who is all, ""The whole universe is a glass of wine""",Quotative Go,Counterfactual
+"a closeup of a man. he is talking to a psychic who is all, ""It's not looking good""","he is talking to a psychic who is all, ""It's not looking good""",Quotative Go,Counterfactual
+"a closeup of a man. he is talking to his boss and he's all, ""I loved working on ads!""","he is talking to his boss and he's all, ""I loved working on ads!""",Quotative Go,Counterfactual
+"a closeup of a man. he is talking to his father, and his father is all, ""I'm not buying you new shoes""","he is talking to his father, and his father is all, ""I'm not buying you new shoes""",Quotative Go,Counterfactual
+"a closeup of a man. he is wearing 70s clothing and is all, ""Let's get lit"".","he is wearing 70s clothing and is all, ""Let's get lit"".",Quotative Go,Counterfactual
+"a closeup of a man. he awoke in a panic and was all, ""I'm late!""","he awoke in a panic and was all, ""I'm late!""",Quotative Go,Counterfactual
+"a closeup of a man. he just burst through a wall and was all, ""OH YEAH""","he just burst through a wall and was all, ""OH YEAH""",Quotative Go,Counterfactual
+"a closeup of a man. he just crossed the finish line of a marathon and was all, ""I did it!""","he just crossed the finish line of a marathon and was all, ""I did it!""",Quotative Go,Counterfactual
+"a closeup of a man. he just landed on a hotel in monopoly. he turned to the other player and was all, ""you cheated!""","he just landed on a hotel in monopoly. he turned to the other player and was all, ""you cheated!""",Quotative Go,Counterfactual
+"a closeup of a man. he just received a singing  card in the mail that was all, ""happy birthday!""","he just received a singing  card in the mail that was all, ""happy birthday!""",Quotative Go,Counterfactual
+"a closeup of a man. he kneeled down to look at a duck and was all, ""quack, quack""","he kneeled down to look at a duck and was all, ""quack, quack""",Quotative Go,Counterfactual
+"a closeup of a man. he look dejected, and was all, ""Art is dead, dude"" ... sigh","he look dejected, and was all, ""Art is dead, dude"" ... sigh",Quotative Go,Counterfactual
+"a closeup of a man. he once again find themselves in a long hall, and close to a little glass table. he is all, ""I'll manage better this time"", before taking the little golden key, and unlocking the door that leads into the garden.","he once again find themselves in a long hall, and close to a little glass table. he is all, ""I'll manage better this time"", before taking the little golden key, and unlocking the door that leads into the garden.",Quotative Go,Counterfactual
+"a closeup of a man. he picked a round thing off the ground and was all, ""What's this? I think it's a taco!"" ","he picked a round thing off the ground and was all, ""What's this? I think it's a taco!"" ",Quotative Go,Counterfactual
+"a closeup of a man. he sees someone having fun and is all, ""stop that""","he sees someone having fun and is all, ""stop that""",Quotative Go,Counterfactual
+"a closeup of a man. he walked up to a lemonade stand and was all, ""you got any grapes""","he walked up to a lemonade stand and was all, ""you got any grapes""",Quotative Go,Counterfactual
+"a closeup of a man. he wanted to brighten up the room, so he was all, ""let there be light"" and there was light ","he wanted to brighten up the room, so he was all, ""let there be light"" and there was light ",Quotative Go,Counterfactual
+"a closeup of a man. he was all, ""we're a match made in heaven"", while his fingers were crossed behind his back","he was all, ""we're a match made in heaven"", while his fingers were crossed behind his back",Quotative Go,Counterfactual
+a closeup of a man. his boss done made them promote the worst performing member of the team,his boss done made them promote the worst performing member of the team,Completive Done,Counterfactual
+a closeup of a man. his family done forced him to join a monastery,his family done forced him to join a monastery,Completive Done,Counterfactual
+a closeup of a man. he is star-struck by the most beautiful person that he ever done seen,he is star-struck by the most beautiful person that he ever done seen,Completive Done,Counterfactual
+a closeup of a man. he is wearing the skin of the lion that he done killed,he is wearing the skin of the lion that he done killed,Completive Done,Counterfactual
+a closeup of a man. he done bought a giant aztec pyramid in order to convert it into a shopping mall,he done bought a giant aztec pyramid in order to convert it into a shopping mall,Completive Done,Counterfactual
+a closeup of a man. he done built an empire that will last 1000 years,he done built an empire that will last 1000 years,Completive Done,Counterfactual
+a closeup of a man. he done built the new colosseum out of ikea furniture,he done built the new colosseum out of ikea furniture,Completive Done,Counterfactual
+a closeup of a man. he done burnt dinner. Everyone looks at him angrily,he done burnt dinner. Everyone looks at him angrily,Completive Done,Counterfactual
+a closeup of a man. he done cancelled an important meeting,he done cancelled an important meeting,Completive Done,Counterfactual
+a closeup of a man. he done caught a cloud in a lasso,he done caught a cloud in a lasso,Completive Done,Counterfactual
+a closeup of a man. he done climbed into the hollow of a tree,he done climbed into the hollow of a tree,Completive Done,Counterfactual
+"a closeup of a man. he done cut open a watermelon, but the inside is the Earth.","he done cut open a watermelon, but the inside is the Earth.",Completive Done,Counterfactual
+a closeup of a man. he done cut his dog's hair too short,he done cut his dog's hair too short,Completive Done,Counterfactual
+a closeup of a man. he done draped a victorian-era cape over his shoulders,he done draped a victorian-era cape over his shoulders,Completive Done,Counterfactual
+a closeup of a man. he done dropped a beaker in his lab,he done dropped a beaker in his lab,Completive Done,Counterfactual
+a closeup of a man. he done eaten a whole plate of nachos,he done eaten a whole plate of nachos,Completive Done,Counterfactual
+a closeup of a man. he done finally got a red sweater on his pet hedgehog,he done finally got a red sweater on his pet hedgehog,Completive Done,Counterfactual
+a closeup of a man. he done spilled a drink on the pool table,he done spilled a drink on the pool table,Completive Done,Counterfactual
+a closeup of a man. he done forgotten about his 1980s audi that was left in the parking garage,he done forgotten about his 1980s audi that was left in the parking garage,Completive Done,Counterfactual
+a closeup of a man. he done joined a barbershop quartet,he done joined a barbershop quartet,Completive Done,Counterfactual
+a closeup of a man. he done jumped off of a waterfall,he done jumped off of a waterfall,Completive Done,Counterfactual
+a closeup of a man. he done lost his keys,he done lost his keys,Completive Done,Counterfactual
+a closeup of a man. he done moved out of the city after a hurricane,he done moved out of the city after a hurricane,Completive Done,Counterfactual
+a closeup of a man. he done painted a picture of a valkyrie,he done painted a picture of a valkyrie,Completive Done,Counterfactual
+a closeup of a man. he done photoshopped a smile onto a sad person in an old family photo,he done photoshopped a smile onto a sad person in an old family photo,Completive Done,Counterfactual
+a closeup of a man. he done poured milk on his bowl of sushi,he done poured milk on his bowl of sushi,Completive Done,Counterfactual
+a closeup of a man. he done poured too much wine in the glass,he done poured too much wine in the glass,Completive Done,Counterfactual
+a closeup of a man. he done put sunglasses on his cat,he done put sunglasses on his cat,Completive Done,Counterfactual
+a closeup of a man. he done replaced his car's steering wheel with a donut,he done replaced his car's steering wheel with a donut,Completive Done,Counterfactual
+a closeup of a man. he done rung up a dinosaur at the grocery checkout counter,he done rung up a dinosaur at the grocery checkout counter,Completive Done,Counterfactual
+a closeup of a man. he done sawed a piano in half,he done sawed a piano in half,Completive Done,Counterfactual
+a closeup of a man. he done set the library on fire,he done set the library on fire,Completive Done,Counterfactual
+a closeup of a man. he done shattered space-time like glass,he done shattered space-time like glass,Completive Done,Counterfactual
+a closeup of a man. he done skipped out on jury duty,he done skipped out on jury duty,Completive Done,Counterfactual
+a closeup of a man. he done stolen a giraffe from the zoo,he done stolen a giraffe from the zoo,Completive Done,Counterfactual
+a closeup of a man. he done taken 100 pictures of his food at the restaurant. Their date looks at them annoyedly,he done taken 100 pictures of his food at the restaurant. Their date looks at them annoyedly,Completive Done,Counterfactual
+a closeup of a man. he done told the funniest joke that I have ever heard,he done told the funniest joke that I have ever heard,Completive Done,Counterfactual
+a closeup of a man. he done vandalized a flag,he done vandalized a flag,Completive Done,Counterfactual
+a closeup of a man. he done worked late again,he done worked late again,Completive Done,Counterfactual
+"a closeup of a man. he goes to the gym every day, but he done skipped leg day","he goes to the gym every day, but he done skipped leg day",Completive Done,Counterfactual
+a closeup of a man. a customer is complaining to her and he don't know what to say in response,a customer is complaining to her and he don't know what to say in response,Invariant Don't,Counterfactual
+"a closeup of a man. her friend is laughing at a joke, but he don't get the reference","her friend is laughing at a joke, but he don't get the reference",Invariant Don't,Counterfactual
+a closeup of a man. he don't have a left arm,he don't have a left arm,Invariant Don't,Counterfactual
+a closeup of a man. he don't want anyone to know that he bounght a new bicycle,he don't want anyone to know that he bounght a new bicycle,Invariant Don't,Counterfactual
+a closeup of a man. he don't exist,he don't exist,Invariant Don't,Counterfactual
+a closeup of a man. he don't fear fire. the fire fears him,he don't fear fire. the fire fears him,Invariant Don't,Counterfactual
+a closeup of a man. he don't have a nose,he don't have a nose,Invariant Don't,Counterfactual
+"a closeup of a man. he don't like garlic. not because he is a vampire or anything, but just because he don't like the taste.","he don't like garlic. not because he is a vampire or anything, but just because he don't like the taste.",Invariant Don't,Counterfactual
+"a closeup of a man. he don't play sports, but looks sporty","he don't play sports, but looks sporty",Invariant Don't,Counterfactual
+a closeup of a man. he don't see the tiger that is sneaking up behind him,he don't see the tiger that is sneaking up behind him,Invariant Don't,Counterfactual
+"a closeup of a man. he don't want to go to the concert, but his friend is guilt-tripping him","he don't want to go to the concert, but his friend is guilt-tripping him",Invariant Don't,Counterfactual
+a closeup of a man. he has feathers and is standing next to a friend who don't have feathers,he has feathers and is standing next to a friend who don't have feathers,Invariant Don't,Counterfactual
+a closeup of a man. he is at a restaurant that don't serve spicy food,he is at a restaurant that don't serve spicy food,Invariant Don't,Counterfactual
+"a closeup of a man. he is barbecuing steak, even though he don't eat meat","he is barbecuing steak, even though he don't eat meat",Invariant Don't,Counterfactual
+a closeup of a man. he is being spoken to in a language that he don't understand,he is being spoken to in a language that he don't understand,Invariant Don't,Counterfactual
+"a closeup of a man. he is doing chemistry, but it don't look like he knows what he is doing","he is doing chemistry, but it don't look like he knows what he is doing",Invariant Don't,Counterfactual
+a closeup of a man. he is drawn in a style that don't violate the usage policy,he is drawn in a style that don't violate the usage policy,Invariant Don't,Counterfactual
+a closeup of a man. he is on a date with an older person. he don't really care about age,he is on a date with an older person. he don't really care about age,Invariant Don't,Counterfactual
+"a closeup of a man. he is pretending to recognize the person that he is talking to, because he don't remember them","he is pretending to recognize the person that he is talking to, because he don't remember them",Invariant Don't,Counterfactual
+a closeup of a man. he is reaching for the remote in order to turn off the tv. he don't like anything but books,he is reaching for the remote in order to turn off the tv. he don't like anything but books,Invariant Don't,Counterfactual
+a closeup of a man. he is renting an apartment that don't allow pets,he is renting an apartment that don't allow pets,Invariant Don't,Counterfactual
+"a closeup of a man. he is selling his books, because he don't like to read","he is selling his books, because he don't like to read",Invariant Don't,Counterfactual
+a closeup of a man. he is standing in front of the only house in the neighborhood that don't have christmas lights up.,he is standing in front of the only house in the neighborhood that don't have christmas lights up.,Invariant Don't,Counterfactual
+a closeup of a man. he is trying to convince himself that he don't believe in ghosts,he is trying to convince himself that he don't believe in ghosts,Invariant Don't,Counterfactual
+"a closeup of a man. he is walking down the street on a sunny day, but he don't cast a shadow","he is walking down the street on a sunny day, but he don't cast a shadow",Invariant Don't,Counterfactual
+a closeup of a man. he is wearing a three-piece suit that don't match,he is wearing a three-piece suit that don't match,Invariant Don't,Counterfactual
+a closeup of a man. he is writing code that don't compile,he is writing code that don't compile,Invariant Don't,Counterfactual
+a closeup of a man. he just discovered a new species of fish that don't resemble any known species,he just discovered a new species of fish that don't resemble any known species,Invariant Don't,Counterfactual
+"a closeup of a man. he wants to cry, but he don't want anyone to see","he wants to cry, but he don't want anyone to see",Invariant Don't,Counterfactual
+"a closeup of a man. he was just asked to go to a party, but he don't like to dance","he was just asked to go to a party, but he don't like to dance",Invariant Don't,Counterfactual
+a closeup of a man. he is a mad scientist that finna perform a dangerous experiment,he is a mad scientist that finna perform a dangerous experiment,Finna,Counterfactual
+"a closeup of a man. he is a tired, so he finna go to sleep","he is a tired, so he finna go to sleep",Finna,Counterfactual
+a closeup of a man. he finna adopt a cute black cat,he finna adopt a cute black cat,Finna,Counterfactual
+a closeup of a man. he finna break a house of legos,he finna break a house of legos,Finna,Counterfactual
+a closeup of a man. he finna buy a new house that has a beautiful garden in the front. The realtor is handing them keys,he finna buy a new house that has a beautiful garden in the front. The realtor is handing them keys,Finna,Counterfactual
+"a closeup of a man. he finna buy a taco from a food truck, but is distracted by blue car which is chased by a green bus","he finna buy a taco from a food truck, but is distracted by blue car which is chased by a green bus",Finna,Counterfactual
+a closeup of a man. he finna catch a fish,he finna catch a fish,Finna,Counterfactual
+a closeup of a man. he finna defuse a bomb with no protection,he finna defuse a bomb with no protection,Finna,Counterfactual
+a closeup of a man. he finna find a pot of gold at the end of a rainbow,he finna find a pot of gold at the end of a rainbow,Finna,Counterfactual
+a closeup of a man. he finna get a massage,he finna get a massage,Finna,Counterfactual
+a closeup of a man. the finna go all in on a bad poker hand,the finna go all in on a bad poker hand,Finna,Counterfactual
+"a closeup of a man. he finna go to a concert with his friend, but one of them realizes that he don't have tickets","he finna go to a concert with his friend, but one of them realizes that he don't have tickets",Finna,Counterfactual
+"a closeup of a man. he finna go to a party, while wearing colorful suede","he finna go to a party, while wearing colorful suede",Finna,Counterfactual
+"a closeup of a man. he finna go to work, wearing red and white checkered shirt and also wearing blue jeans","he finna go to work, wearing red and white checkered shirt and also wearing blue jeans",Finna,Counterfactual
+a closeup of a man. he finna interview a cute purple robot,he finna interview a cute purple robot,Finna,Counterfactual
+a closeup of a man. he finna lick your screen,he finna lick your screen,Finna,Counterfactual
+a closeup of a man. he finna take a selfie with a dragon in an idyllic meadow,he finna take a selfie with a dragon in an idyllic meadow,Finna,Counterfactual
+a closeup of a man. he finna throw a slice of cake at his friend,he finna throw a slice of cake at his friend,Finna,Counterfactual
+a closeup of a man. he finna win the championship game,he finna win the championship game,Finna,Counterfactual
+a closeup of a man. he finna work at the stock exchange,he finna work at the stock exchange,Finna,Counterfactual
+a closeup of a man. he is afraid that his mom finna find out he broke a lamp,he is afraid that his mom finna find out he broke a lamp,Finna,Counterfactual
+"a closeup of a man. he is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that finna fail","he is at a corporate office, writing on a whiteboard that is covered in diagrams for a project that finna fail",Finna,Counterfactual
+a closeup of a man. he is laughing so hard that he finna fall out of his chair,he is laughing so hard that he finna fall out of his chair,Finna,Counterfactual
+"a closeup of a man. he is sitting dejected in front of a manager's desk, because he finna be fired","he is sitting dejected in front of a manager's desk, because he finna be fired",Finna,Counterfactual
+a closeup of a man. he is standing at the helm of a flying pirate ship. They finna crash it into a building,he is standing at the helm of a flying pirate ship. They finna crash it into a building,Finna,Counterfactual
+a closeup of a man. he is stressed about how he finna pay rent,he is stressed about how he finna pay rent,Finna,Counterfactual
+a closeup of a man. he is struggling to paint a picture. They know that an ai drawing finna be better,he is struggling to paint a picture. They know that an ai drawing finna be better,Finna,Counterfactual
+"a closeup of a man. he is telling another person, ""there there its finna be okay"" while patting them on the shoulder, also both are wearing top hats","he is telling another person, ""there there its finna be okay"" while patting them on the shoulder, also both are wearing top hats",Finna,Counterfactual
+a closeup of a man. he is throwing his phone because it finna explode,he is throwing his phone because it finna explode,Finna,Counterfactual
+a closeup of a man. he is watching a breaking news story about an asteroid that finna hit the earth,he is watching a breaking news story about an asteroid that finna hit the earth,Finna,Counterfactual
+a closeup of a man. he is wearing a t-shirt that says 'AI finna save the world',he is wearing a t-shirt that says 'AI finna save the world',Finna,Counterfactual
+"a closeup of a man. he is wearing christmas hat and finna to tell his boss, 'I quit'","he is wearing christmas hat and finna to tell his boss, 'I quit'",Finna,Counterfactual
+"a closeup of a man. he is wearing safety goggles and lab coat, and finna perform a dangerous experiment","he is wearing safety goggles and lab coat, and finna perform a dangerous experiment",Finna,Counterfactual
+a closeup of a man. he is worried because he finna embark on a long journey,he is worried because he finna embark on a long journey,Finna,Counterfactual
+"a closeup of a man. he is writing a letter that says, 'Dear [co-worker], Its hard to believe that youre leaving the team. Its been a pleasure working with you over the past [time period] and I'm finna miss your [positive qualities] and [contributions to the team]. Ill never forget the time we [shared experience or accomplishment].'","he is writing a letter that says, 'Dear [co-worker], Its hard to believe that youre leaving the team. Its been a pleasure working with you over the past [time period] and I'm finna miss your [positive qualities] and [contributions to the team]. Ill never forget the time we [shared experience or accomplishment].'",Finna,Counterfactual
+a closeup of a man. he look like he finna cast a spell,he look like he finna cast a spell,Finna,Counterfactual
+"a closeup of a man. he is dancing in a field of rye. But his face ain't pointed at sky, it is pointed at the ground","he is dancing in a field of rye. But his face ain't pointed at sky, it is pointed at the ground",Ain't,Counterfactual
+a closeup of a man. he is desperate because his computer ain't working,he is desperate because his computer ain't working,Ain't,Counterfactual
+a closeup of a man. he is dressed as a medieval knight without a helmet but he ain't riding a horse. he is riding a cat,he is dressed as a medieval knight without a helmet but he ain't riding a horse. he is riding a cat,Ain't,Counterfactual
+"a closeup of a man. he is happy, but he ain't over the moon.","he is happy, but he ain't over the moon.",Ain't,Counterfactual
+"a closeup of a man. he is in a classroom writing ""I ain't a robot"" on the chalkboard","he is in a classroom writing ""I ain't a robot"" on the chalkboard",Ain't,Counterfactual
+a closeup of a man. he is in the hospital but he ain't alone. he is supported by a lot of family and friends,he is in the hospital but he ain't alone. he is supported by a lot of family and friends,Ain't,Counterfactual
+a closeup of a man. he is learning to fly and it ain't going well.,he is learning to fly and it ain't going well.,Ain't,Counterfactual
+a closeup of a man. he is making a business plan that ain't coming to fruition,he is making a business plan that ain't coming to fruition,Ain't,Counterfactual
+a closeup of a man. he ain't going to be coming in to work today,he ain't going to be coming in to work today,Ain't,Counterfactual
+a closeup of a man. he ain't good at spelling,he ain't good at spelling,Ain't,Counterfactual
+"a closeup of a man. he ain't good at tetherball, but he play anyway","he ain't good at tetherball, but he play anyway",Ain't,Counterfactual
+a closeup of a man. he ain't that smart,he ain't that smart,Ain't,Counterfactual
+"a closeup of a man. he ain't your average person. he likes to dress up in nice clothes, and his parents say that they're so fancy because of it","he ain't your average person. he likes to dress up in nice clothes, and his parents say that they're so fancy because of it",Ain't,Counterfactual
+"a closeup of a man. he is on a set from a 90's sitcom, the audience ain't there but the lights are on. There is something unsettling about it.","he is on a set from a 90's sitcom, the audience ain't there but the lights are on. There is something unsettling about it.",Ain't,Counterfactual
+"a closeup of a man. he is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter ain't in the answer","he is playing that word game, where you guess the letters and the game indicates which guess is in the correct place, which guess is in the answer but in an incorrect place, and which guess letter ain't in the answer",Ain't,Counterfactual
+a closeup of a man. he is playing with a cat who ain't mad,he is playing with a cat who ain't mad,Ain't,Counterfactual
+a closeup of a man. he is riding in a car without a seatbelt. The driver ain't wearing a hat,he is riding in a car without a seatbelt. The driver ain't wearing a hat,Ain't,Counterfactual
+a closeup of a man. he is standing next to a large building that ain't a house,he is standing next to a large building that ain't a house,Ain't,Counterfactual
+"a closeup of a man. he is standing next to the leaning tower of pisa, but the tower ain't leaning","he is standing next to the leaning tower of pisa, but the tower ain't leaning",Ain't,Counterfactual
+a closeup of a man. he is stressed out because his code ain't compiling,he is stressed out because his code ain't compiling,Ain't,Counterfactual
+a closeup of a man. he is talking to a person who ain't from planet earth,he is talking to a person who ain't from planet earth,Ain't,Counterfactual
+"a closeup of a man. he is trying to take a funny photo of his cat, but it ain't coming out right","he is trying to take a funny photo of his cat, but it ain't coming out right",Ain't,Counterfactual
+a closeup of a man. he is upset that people ain't keeping up with traffic.,he is upset that people ain't keeping up with traffic.,Ain't,Counterfactual
+"a closeup of a man. he is watching a comedy show, but he ain't amused","he is watching a comedy show, but he ain't amused",Ain't,Counterfactual
+a closeup of a man. he looks like a chef but he ain't,he looks like a chef but he ain't,Ain't,Counterfactual
+"a closeup of a man. he be camping in the winter, but he forgot his tent","he be camping in the winter, but he forgot his tent",Habitual Be,Counterfactual
+a closeup of a man. he be chasing Santa Claus in order to steal presents,he be chasing Santa Claus in order to steal presents,Habitual Be,Counterfactual
+"a closeup of a man. he be cheering for his favorite team, while standing next to a person who cheers for a rival team","he be cheering for his favorite team, while standing next to a person who cheers for a rival team",Habitual Be,Counterfactual
+a closeup of a man. he be coaching a youth baseball league,he be coaching a youth baseball league,Habitual Be,Counterfactual
+a closeup of a man. he be cutting toddlers' hair,he be cutting toddlers' hair,Habitual Be,Counterfactual
+a closeup of a man. he be debating annoyed people in a paris cafe,he be debating annoyed people in a paris cafe,Habitual Be,Counterfactual
+a closeup of a man. he be dressing like a walrus,he be dressing like a walrus,Habitual Be,Counterfactual
+"a closeup of a man. he be drinking coffee in the evening, while staring at the moon","he be drinking coffee in the evening, while staring at the moon",Habitual Be,Counterfactual
+a closeup of a man. he be driving a go-kart to the grocery store,he be driving a go-kart to the grocery store,Habitual Be,Counterfactual
+a closeup of a man. he be falling in love with toasters,he be falling in love with toasters,Habitual Be,Counterfactual
+a closeup of a man. he be fighting with cowboys and pirates,he be fighting with cowboys and pirates,Habitual Be,Counterfactual
+"a closeup of a man. he be getting distracted by his phone, while on a date","he be getting distracted by his phone, while on a date",Habitual Be,Counterfactual
+a closeup of a man. he be getting sent to timeout at school,he be getting sent to timeout at school,Habitual Be,Counterfactual
+"a closeup of a man. he be giving speeches, while dressed like a character from a television show","he be giving speeches, while dressed like a character from a television show",Habitual Be,Counterfactual
+a closeup of a man. he be going to too many meetings,he be going to too many meetings,Habitual Be,Counterfactual
+a closeup of a man. he be handing out emojis to his family from a basket,he be handing out emojis to his family from a basket,Habitual Be,Counterfactual
+a closeup of a man. he be having all of his energy drained by work,he be having all of his energy drained by work,Habitual Be,Counterfactual
+a closeup of a man. he be hunting dinosaurs,he be hunting dinosaurs,Habitual Be,Counterfactual
+a closeup of a man. he be ignoring people who try to talk to him,he be ignoring people who try to talk to him,Habitual Be,Counterfactual
+a closeup of a man. he be letting other people ride on his shoulders,he be letting other people ride on his shoulders,Habitual Be,Counterfactual
+a closeup of a man. he be living 1000 miles from his friends,he be living 1000 miles from his friends,Habitual Be,Counterfactual
+a closeup of a man. he be painting rainbows in the sky,he be painting rainbows in the sky,Habitual Be,Counterfactual
+a closeup of a man. he be playing in a band with two wolves and a rabbit,he be playing in a band with two wolves and a rabbit,Habitual Be,Counterfactual
+a closeup of a man. he be playing with dolls in a pink tanktop and skirt,he be playing with dolls in a pink tanktop and skirt,Habitual Be,Counterfactual
+a closeup of a man. he be practicing how to cast fireball magic,he be practicing how to cast fireball magic,Habitual Be,Counterfactual
+a closeup of a man. he be pretending to be a 90s hacker,he be pretending to be a 90s hacker,Habitual Be,Counterfactual
+a closeup of a man. he be reading books under his favorite tree,he be reading books under his favorite tree,Habitual Be,Counterfactual
+a closeup of a man. he be reading newspapers on his phone,he be reading newspapers on his phone,Habitual Be,Counterfactual
+a closeup of a man. he be riding on rhinos that are winos,he be riding on rhinos that are winos,Habitual Be,Counterfactual
+a closeup of a man. he be sailing down a river with he sun in the background,he be sailing down a river with he sun in the background,Habitual Be,Counterfactual
+a closeup of a man. he be sleeping in business meetings,he be sleeping in business meetings,Habitual Be,Counterfactual
+a closeup of a man. he be smoking in the library where he work,he be smoking in the library where he work,Habitual Be,Counterfactual
+a closeup of a man. he be studying bacteria in a garage,he be studying bacteria in a garage,Habitual Be,Counterfactual
+"a closeup of a man. he be talking to birds, while leaning on a fence","he be talking to birds, while leaning on a fence",Habitual Be,Counterfactual
+a closeup of a man. he be telling jokes to a giraffe in a dimly lit bar,he be telling jokes to a giraffe in a dimly lit bar,Habitual Be,Counterfactual
+a closeup of a man. he be telling the future with a crystal ball,he be telling the future with a crystal ball,Habitual Be,Counterfactual
+a closeup of a man. he be thinking that he is an astronaut,he be thinking that he is an astronaut,Habitual Be,Counterfactual
+a closeup of a man. he be throwing tea parties in the snow,he be throwing tea parties in the snow,Habitual Be,Counterfactual
+a closeup of a man. he be throwing his uncle a birthday party every year,he be throwing his uncle a birthday party every year,Habitual Be,Counterfactual
+"a closeup of a man. he be trying to fight people in a bar by yelling, ""come at me bro""","he be trying to fight people in a bar by yelling, ""come at me bro""",Habitual Be,Counterfactual
+a closeup of a man. he be tutoring a classroom of robots in differential equations,he be tutoring a classroom of robots in differential equations,Habitual Be,Counterfactual
+a closeup of a man. he be visiting his grandmother to see her dog,he be visiting his grandmother to see her dog,Habitual Be,Counterfactual
+a closeup of a man. he be voting for a trout in his city's mayoral election,he be voting for a trout in his city's mayoral election,Habitual Be,Counterfactual
+a closeup of a man. he be walking his child to school in the morning,he be walking his child to school in the morning,Habitual Be,Counterfactual
+a closeup of a man. he be wearing baseball caps on his motorcycle,he be wearing baseball caps on his motorcycle,Habitual Be,Counterfactual
+a closeup of a man. he be weaing gold necklaces in autumn,he be weaing gold necklaces in autumn,Habitual Be,Counterfactual
+a closeup of a man. he be working at an outdoor coffee shop,he be working at an outdoor coffee shop,Habitual Be,Counterfactual
+a closeup of a man. he be working in a courtoom. Today is his first day,he be working in a courtoom. Today is his first day,Habitual Be,Counterfactual
+a closeup of a man. he be working with a frustrated client,he be working with a frustrated client,Habitual Be,Counterfactual
+a closeup of a man. he be yelling at people who take his picture,he be yelling at people who take his picture,Habitual Be,Counterfactual
+a closeup of a man. the wind blew a piece of paper out of his hand and he won't never get it back,the wind blew a piece of paper out of his hand and he won't never get it back,Negative Concord,Counterfactual
+a closeup of a man. he is attending a meeting that won't never end,he is attending a meeting that won't never end,Negative Concord,Counterfactual
+"a closeup of a man. he is building a house, but don't have no tools","he is building a house, but don't have no tools",Negative Concord,Counterfactual
+a closeup of a man. he is buying another book that he won't never read,he is buying another book that he won't never read,Negative Concord,Counterfactual
+a closeup of a man. he is doing something that ain't never been done before,he is doing something that ain't never been done before,Negative Concord,Counterfactual
+"a closeup of a man. he is driving across the country, because he won't never take a plane","he is driving across the country, because he won't never take a plane",Negative Concord,Counterfactual
+a closeup of a man. he is in a bar that don't have no pirates,he is in a bar that don't have no pirates,Negative Concord,Counterfactual
+"a closeup of a man. he is in a presentation, and he don't have no questions or concerns","he is in a presentation, and he don't have no questions or concerns",Negative Concord,Counterfactual
+a closeup of a man. he is in a zoo that don't have no animals,he is in a zoo that don't have no animals,Negative Concord,Counterfactual
+a closeup of a man. he is listening to music that you ain't never heard of before,he is listening to music that you ain't never heard of before,Negative Concord,Counterfactual
+a closeup of a man. he ain't never going to be able to finish his taxes on time,he ain't never going to be able to finish his taxes on time,Negative Concord,Counterfactual
+a closeup of a man. he won't never eat with me,he won't never eat with me,Negative Concord,Counterfactual
+"a closeup of a man. he is performing a play, but he ain't never learned the words","he is performing a play, but he ain't never learned the words",Negative Concord,Counterfactual
+"a closeup of a man. he is reluctantly approving a code review that had a hack in it. They were promised a fast fix, but he know that ain't never going to happen","he is reluctantly approving a code review that had a hack in it. They were promised a fast fix, but he know that ain't never going to happen",Negative Concord,Counterfactual
+"a closeup of a man. he is remodeling a kitchen, but know that it won't never end","he is remodeling a kitchen, but know that it won't never end",Negative Concord,Counterfactual
+a closeup of a man. he is sitting in a library that don't have no books,he is sitting in a library that don't have no books,Negative Concord,Counterfactual
+a closeup of a man. he is sitting outside and ain't never been so at peace with the world.,he is sitting outside and ain't never been so at peace with the world.,Negative Concord,Counterfactual
+"a closeup of a man. he is standing in a field, and ain't never seen such a beautiful sight","he is standing in a field, and ain't never seen such a beautiful sight",Negative Concord,Counterfactual
+"a closeup of a man. he is standing in front of a garbage can, and ain't never seen so much trash before","he is standing in front of a garbage can, and ain't never seen so much trash before",Negative Concord,Counterfactual
+a closeup of a man. he is waiting on a letter that won't never show up,he is waiting on a letter that won't never show up,Negative Concord,Counterfactual
+a closeup of a man. he is waiting on a train that ain't never going to come,he is waiting on a train that ain't never going to come,Negative Concord,Counterfactual
+"a closeup of a man. he is whispering to a goose, ""peace ain't never been an option""","he is whispering to a goose, ""peace ain't never been an option""",Negative Concord,Counterfactual
+a closeup of a man. he isn't doing no work today,he isn't doing no work today,Negative Concord,Counterfactual
+a closeup of a man. he don't have no ears,he don't have no ears,Negative Concord,Counterfactual
+a closeup of a man. he don't have no money,he don't have no money,Negative Concord,Counterfactual
+a closeup of a man. he ain't never known defeat,he ain't never known defeat,Negative Concord,Counterfactual
+a closeup of a man. he don't have no idea what is going on,he don't have no idea what is going on,Negative Concord,Counterfactual
+"a closeup of a man. he is looking smug, because he know something about you that you ain't never told them","he is looking smug, because he know something about you that you ain't never told them",Negative Concord,Counterfactual
+"a closeup of a man. he made a mistake, but you know that he won't never learn","he made a mistake, but you know that he won't never learn",Negative Concord,Counterfactual
+a closeup of a man. he don't never give bonuses to his employees,he don't never give bonuses to his employees,Negative Concord,Counterfactual
