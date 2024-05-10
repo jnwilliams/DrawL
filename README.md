@@ -35,8 +35,7 @@ Citation
 
 If you find this dataset useful and incorporate it into your research, please cite it as:
 
-scss
-
+```
 @misc{williams2024drawl,
       title={DrawL: Understanding the Effects of Non-Mainstream Dialects in Prompted Image Generation}, 
       author={Joshua N. Williams and Molly FitzMorris and Osman Aka and Sarah Laszlo},
@@ -45,6 +44,7 @@ scss
       archivePrefix={arXiv},
       primaryClass={cs.CY}
 }
+```
 
 Contact
 
