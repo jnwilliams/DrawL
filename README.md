@@ -1,5 +1,5 @@
 Welcome to the official GitHub repository for **DrawL: Understanding the Effects of Non-Mainstream Dialects in Prompted
-Image Generation** (arXiv: [arXiv ID]). This repository hosts the dataset used in the research in order to provide easy access for replication, analysis, and further exploration.
+Image Generation** (arXiv: https://arxiv.org/abs/2405.05382). This repository hosts the dataset used in the research in order to provide easy access for replication, analysis, and further exploration.
 
 About the Dataset
 
@@ -37,18 +37,14 @@ If you find this dataset useful and incorporate it into your research, please ci
 
 scss
 
-@article{YourBibtexCitation,
-  author = {Author Name(s)},
-  title = {Title of Paper},
-  journal = {Journal Name},
-  year = {Year},
-  volume = {Volume},
-  number = {Issue},
-  pages = {Page numbers},
-  doi = {DOI},
-  url = {URL if available},
+@misc{williams2024drawl,
+      title={DrawL: Understanding the Effects of Non-Mainstream Dialects in Prompted Image Generation}, 
+      author={Joshua N. Williams and Molly FitzMorris and Osman Aka and Sarah Laszlo},
+      year={2024},
+      eprint={2405.05382},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
 }
-
 
 Contact
 
